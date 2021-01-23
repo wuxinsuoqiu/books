@@ -276,7 +276,7 @@
 
 链接: [https://pan.baidu.com/s/12eUfNtk3pvayGd3HyGO0Rg](https://pan.baidu.com/s/12eUfNtk3pvayGd3HyGO0Rg) 提取码: mqj4
 
-#### c
+#### C
 
 - C Primer Plus
 
