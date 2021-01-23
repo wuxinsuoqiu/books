@@ -1,108 +1,8 @@
-## 编程语言
-
-### 汇编
-
-- 汇编语言
-
-  - 33.3m,pdf 链接: [https://pan.baidu.com/s/1fYHpzqLwpCm14AzvfrzFdw](https://pan.baidu.com/s/1fYHpzqLwpCm14AzvfrzFdw) 提取码: 3nw4
-
-### JavaScript
-
-- 你不知道的 JavaScript (中卷)
-
-  - 36.7m,pdf 链接: [https://pan.baidu.com/s/1-LkvlxwGjpLGstpQipyhhA](https://pan.baidu.com/s/1-LkvlxwGjpLGstpQipyhhA) 提取码: vh1h
-
-- JavaScript 权威指南(第六版)(美)
-
-  - 21m,pdf 链接: [https://pan.baidu.com/s/1T7zEW7Nz3jfV3NuKdmRh7w](https://pan.baidu.com/s/1T7zEW7Nz3jfV3NuKdmRh7w) 提取码: n2ky
-
-- JavaScript 设计模式
-
-  - 47.9m,pdf 链接: [https://pan.baidu.com/s/1sH_RecxN7Bz2CtpA5MK9yg](https://pan.baidu.com/s/1sH_RecxN7Bz2CtpA5MK9yg), 提取码: c65h
-
-- JavaScript 高级程序设计(第 3 版)
-
-  - 26m,pdf 链接: [https://pan.baidu.com/s/1Dtg8SXynPVKbrQuDA6g5qA](https://pan.baidu.com/s/1Dtg8SXynPVKbrQuDA6g5qA) 提取码: y8j5
-
-- JavaScript 语言精粹
-
-  - 20.2m,pdf 链接: [https://pan.baidu.com/s/15kr1SlpedUz2aC3eKNSQnw](https://pan.baidu.com/s/15kr1SlpedUz2aC3eKNSQnw) 提取码: u238
-
-- JavaScript 函数式编程
-
-  - 37.5m,pdf 链接: [https://pan.baidu.com/s/1Ug4zDf1u5ua3pe5wBrEDLA](https://pan.baidu.com/s/1Ug4zDf1u5ua3pe5wBrEDLA) 提取码: ig95
-
-- JavaScript 面向对象编程指南
-
-  - 56.8m,pdf 链接:[https://pan.baidu.com/s/1JEGzxaH03OWnw2-RvJUAfA](https://pan.baidu.com/s/1JEGzxaH03OWnw2-RvJUAfA), 密码:rnv0
-
-- 编写可维护的 JavaScript 中文版
-
-  - 21.3m,pdf 链接: [https://pan.baidu.com/s/17SoqqhN7u_mrdIqit9PeEA](https://pan.baidu.com/s/17SoqqhN7u_mrdIqit9PeEA) 提取码: qjat
-
-- JavaScript+DOM 编程艺术（清晰中文版）
-
-  - 23m,pdf 链接: [https://pan.baidu.com/s/1Rcv9aqS5e1WbaoEqkqJe1g](https://pan.baidu.com/s/1Rcv9aqS5e1WbaoEqkqJe1g) 提取码: igt7
-
-### Java
-
-- Java 核心技术卷 1 基础知识原书第 10 版,169.7m,链接: [https://pan.baidu.com/s/1H-BWqTK1cQVvnuwmKQH8NQ](https://pan.baidu.com/s/1H-BWqTK1cQVvnuwmKQH8NQ), 提取码: 6pka
-
-- Java 核心技术 卷 2 高级特性 原书第 10 版,205.2m,链接: [https://pan.baidu.com/s/1w8N9d0mOpZvXEaB-iC4Axg](https://pan.baidu.com/s/1w8N9d0mOpZvXEaB-iC4Axg), 提取码: k4xk
-
-- Java 编程的逻辑
-
-  - 42.5m,pdf 链接: [https://pan.baidu.com/s/1qVidhJd9ov3T2oAXC4B7Kg](https://pan.baidu.com/s/1qVidhJd9ov3T2oAXC4B7Kg) 提取码: imgi
-
-#### Spring
-
-- Spring 实战第 4 版
-
-  - 34.8m,epub 链接: [https://pan.baidu.com/s/1Lg00OgIMNWnVh5gZVmvTxg](https://pan.baidu.com/s/1Lg00OgIMNWnVh5gZVmvTxg) 提取码: 155m
-
-- Spring 技术内幕：深入解析 Spring 架构与设计原理(第 2 版)
-
-  - 40.2m,pdf 链接: [https://pan.baidu.com/s/1ZPblmsK5FdNwytHR2Se3pQ](https://pan.baidu.com/s/1ZPblmsK5FdNwytHR2Se3pQ) 提取码: yq56
-
-- 重新定义 Spring Cloud 实战
-
-  - 62.6m,pdf 链接: [https://pan.baidu.com/s/1s3-SvG2K7w9GLiK21rg-vg](https://pan.baidu.com/s/1s3-SvG2K7w9GLiK21rg-vg) 提取码: af7p
-
 ### C
-
-- C Primer Plus 第六版
-
-  - 226.5m,pdf 链接: [https://pan.baidu.com/s/14PIAqwbKWdFc-o4F0gV9sg](https://pan.baidu.com/s/14PIAqwbKWdFc-o4F0gV9sg), 提取码: 9j3m
-
-  - 30.1m, epub 链接: [https://pan.baidu.com/s/1fr8kVgUN5ZiXag-i0_D_pg](https://pan.baidu.com/s/1fr8kVgUN5ZiXag-i0_D_pg) 提取码: g4p7
-
-- C Primer Plus（中文第五版）
-
-  - 20.6m, epub 链接: [https://pan.baidu.com/s/1wk-WCTqKzTZ6J0g7Pz2Diw](https://pan.baidu.com/s/1wk-WCTqKzTZ6J0g7Pz2Diw) 提取码: rbj1
 
 - 嗨翻 C 语言 (图灵程序设计丛书)
 
   - 22.9m,epub 链接: [https://pan.baidu.com/s/1eO_ii9ZJ2X68Cc1wEnizJw](https://pan.baidu.com/s/1eO_ii9ZJ2X68Cc1wEnizJw) 提取码: msbk
-
-### C++
-
-- C++ Primer Plus(第 6 版),264.8m,链接: [https://pan.baidu.com/s/1mcZO5oudatc28MTszVypYA](https://pan.baidu.com/s/1mcZO5oudatc28MTszVypYA), 提取码: 54kg
-
-- C++编程规范 101 条规则、准则最佳实践,37.9m,链接: [https://pan.baidu.com/s/1ahxs-8AleM9GQjNxImvjJw](https://pan.baidu.com/s/1ahxs-8AleM9GQjNxImvjJw), 提取码: cbsz
-
-- C++编程思想(第 2 版)-第 1 卷,35.9m,链接: [https://pan.baidu.com/s/1nL0i-7CTSo2HpqqC-uIccg](https://pan.baidu.com/s/1nL0i-7CTSo2HpqqC-uIccg) 提取码: w6ay
-
-- C++程序设计原理与实践,33.7m,链接: [https://pan.baidu.com/s/11WBOIOzEu5QpiQoQRrggyw](https://pan.baidu.com/s/11WBOIOzEu5QpiQoQRrggyw) 提取码: 9x1a
-
-- C++语言程序设计第四版-郑莉,23.9m,链接: [https://pan.baidu.com/s/1D5Bxv2UY29pdB6Y-OlKJ4g](https://pan.baidu.com/s/1D5Bxv2UY29pdB6Y-OlKJ4g) 提取码: 9wsu
-
-- C++标准程序库 简体中文版
-
-  - 21.3m,pdf 链接: [https://pan.baidu.com/s/1IuhPfwnhm6t0GjumKtvBgQ](https://pan.baidu.com/s/1IuhPfwnhm6t0GjumKtvBgQ) 提取码: zjuv
-
-- C++编程惯用法-高级程序员常用用法和技巧
-
-  - 21.4m,pdf 链接: [https://pan.baidu.com/s/1KlmEgRfJoiYq77vN5SPxVQ](https://pan.baidu.com/s/1KlmEgRfJoiYq77vN5SPxVQ), 提取码: dujx
 
 ### python
 
@@ -140,34 +40,6 @@
 
 - Python 数据分析实战,55.3m,链接:[https://pan.baidu.com/s/1T_s4eCYUr7WwY7Tx2zeTWQ](https://pan.baidu.com/s/1T_s4eCYUr7WwY7Tx2zeTWQ), 密码:o027
 
-### go
-
-- Go 程序设计语言,99.7m,链接: [https://pan.baidu.com/s/1c0gC8RFB9_Jspx-x1ozHtw](https://pan.baidu.com/s/1c0gC8RFB9_Jspx-x1ozHtw) 提取码: 3pu7
-
-- Go Web 编程
-
-  - 160.3m,pdf 链接: [https://pan.baidu.com/s/1ULCvGrjXNjFyNclMgGJZYA](https://pan.baidu.com/s/1ULCvGrjXNjFyNclMgGJZYA) 提取码: xghf
-
-- Go 语言核心编程-李文塔,172.3m,链接: [https://pan.baidu.com/s/1\_\_ipvTZQLae84hI9Cigk3A](https://pan.baidu.com/s/1__ipvTZQLae84hI9Cigk3A) 提取码: 3eqx
-
-- Go 并发编程实战-第 2 版,167.8m,链接: [https://pan.baidu.com/s/1scRZ80voaICHtSh-RPYKrA](https://pan.baidu.com/s/1scRZ80voaICHtSh-RPYKrA) 提取码: xdjt
-
-- Go 语言程序设计-Mark,176.9m,链接: [https://pan.baidu.com/s/1Sr95VtU_ta9yTcWuaAeSCA](https://pan.baidu.com/s/1Sr95VtU_ta9yTcWuaAeSCA) 提取码: sc9e
-
-- Go 语言程序设计-王鹏,394.3m,链接: [https://pan.baidu.com/s/1n23FISWS6TL1W-u_LddwOg](https://pan.baidu.com/s/1n23FISWS6TL1W-u_LddwOg) 提取码: x4vn
-
-### _C#_
-
-- C#图解教程第 4 版,124.7m,链接: [https://pan.baidu.com/s/1wkI6FelAcwz_75ZUSw-71g](https://pan.baidu.com/s/1wkI6FelAcwz_75ZUSw-71g) 提取码: i492
-
-- C#高级编程,96.7m,链接: [https://pan.baidu.com/s/1Hn6A-hQsV8-BJ6Dc60S6kg](https://pan.baidu.com/s/1Hn6A-hQsV8-BJ6Dc60S6kg) 提取码: 4qed
-
-### R
-
-- R 语言编程艺术
-
-  - 22.4m,pdf 链接: [https://pan.baidu.com/s/1zYGfaF7g1fTxXt7pY3RRfA](https://pan.baidu.com/s/1zYGfaF7g1fTxXt7pY3RRfA) 提取码: 2ngu
-
 ## 计算机基础
 
 - 计算机科学导论.佛罗赞,56.5m,链接: [https://pan.baidu.com/s/1fEdvjM4hnVPsbQMG_eKSew](https://pan.baidu.com/s/1fEdvjM4hnVPsbQMG_eKSew) 提取码: mb6r
@@ -178,115 +50,13 @@
 
 - 软件设计师教程第 5 版,59.4m,链接: [https://pan.baidu.com/s/1xZ5GZ64i5yXOFqT9z9QYDg](https://pan.baidu.com/s/1xZ5GZ64i5yXOFqT9z9QYDg), 提取码: sj7p
 
-- 编程的奥秘,12.9m,链接: [https://pan.baidu.com/s/1USBlhFSXZgCdwyT0XmAIxA](https://pan.baidu.com/s/1USBlhFSXZgCdwyT0XmAIxA) 提取码: mn4w
-
 - 计算的本质：深入剖析程序和计算机
 
   - 17.5m,pdf 链接: [https://pan.baidu.com/s/1-lUNvzO2v1iysYPEWEZ1oQ](https://pan.baidu.com/s/1-lUNvzO2v1iysYPEWEZ1oQ) 提取码: feet
 
-## 计算机网络
-
-- TCP-IP 详解(卷一、二、三),41.4m,链接: [https://pan.baidu.com/s/1GjvBLzanFHXp3TAo_eXoVA](https://pan.baidu.com/s/1GjvBLzanFHXp3TAo_eXoVA), 提取码: dmse
-
-- 计算机网络(第 7 版) 谢希仁
-
-  - 70.8m,pdf 链接: [https://pan.baidu.com/s/1jxIcfFbBOr9YD5Y5tbZQHw](https://pan.baidu.com/s/1jxIcfFbBOr9YD5Y5tbZQHw) 提取码: sa65
-
-- 图解 TCPIP(第 5 版),50.1m,链接: [https://pan.baidu.com/s/1snLoNQv5GYGH9MVYeMCKYQ](https://pan.baidu.com/s/1snLoNQv5GYGH9MVYeMCKYQ) 提取码: qvrx
-
-- 计算机网络-自顶向下方法,59.4m,链接: [https://pan.baidu.com/s/1IiR7rk9tHA47ZYF8NkBacQ](https://pan.baidu.com/s/1IiR7rk9tHA47ZYF8NkBacQ) 提取码: j6vr
-
-### HTTP
-
-- HTTP 权威指南
-
-  - 89.3m,pdf 链接: [https://pan.baidu.com/s/1V0PF_dKaylynoycYAgruEg](https://pan.baidu.com/s/1V0PF_dKaylynoycYAgruEg), 提取码: yg4k
-
-## 操作系统
-
-- 深入理解计算机系统,500.6m,链接: [https://pan.baidu.com/s/1YmZykH35BFrLI5yOCjBCxw](https://pan.baidu.com/s/1YmZykH35BFrLI5yOCjBCxw), 提取码: rhrh
-
-- Docker 进阶与实战-华为 Docker 实践小组,42.1m,链接: [https://pan.baidu.com/s/1Zg-Da-l0-M6t4srPxLINbw](https://pan.baidu.com/s/1Zg-Da-l0-M6t4srPxLINbw), 提取码: hxdn
-
-- 现代操作系统（第 3 版）
-
-  - 84.5m,pdf 链接: [https://pan.baidu.com/s/11keUNqzDD6opO2XZlSkrFA](https://pan.baidu.com/s/11keUNqzDD6opO2XZlSkrFA) 提取码: 7wik
-
-- 操作系统原理第 4 版
-
-  23.4m,pdf 链接: [https://pan.baidu.com/s/1vBGGc2y2ue-Mc1QDE8sxHg](https://pan.baidu.com/s/1vBGGc2y2ue-Mc1QDE8sxHg) 提取码: tgff
-
-### Linux
-
-- 鸟哥的 LINUX 私房菜-基础学习篇(第三版),158.6m,链接:[https://pan.baidu.com/s/1hdbB1VkltCynfQCOrHoLrA](https://pan.baidu.com/s/1hdbB1VkltCynfQCOrHoLrA),  提取码:7987
-
-- Linux 运维之道-丁明一,84.5m,链接:[https://pan.baidu.com/s/19nU5TwHQ_FVYUlOX4GNfrw](https://pan.baidu.com/s/19nU5TwHQ_FVYUlOX4GNfrw), 密码:5h6q
-
-- Linux 命令详解词典,74.9m,链接: [https://pan.baidu.com/s/1V2TkpUSkE65cQvb2zJWxFA](https://pan.baidu.com/s/1V2TkpUSkE65cQvb2zJWxFA), 提取码: bvfx
-
-- 循序渐进 Linux-第 2 版-服务器搭建系统,44.3m,链接: [https://pan.baidu.com/s/1E6xNbwE_FdRM33Ysk96zQA](https://pan.baidu.com/s/1E6xNbwE_FdRM33Ysk96zQA), 提取码: c25i
-
-- Linux 内核设计与实现，38.2m,链接: [https://pan.baidu.com/s/1qr9Gwp-yOw4GV4YEJKVXGw](https://pan.baidu.com/s/1qr9Gwp-yOw4GV4YEJKVXGw) 提取码: uwkb
-
-- 深入 Linux 内核架构
-
-  - 23.6m, pdf 链接: [https://pan.baidu.com/s/1DAHnWYLYnhEqqsa2Jx9lIA](https://pan.baidu.com/s/1DAHnWYLYnhEqqsa2Jx9lIA) 提取码: texz
-
-### UNIX
-
-- UNIX 环境高级编程（第三版）
-
-  - 22.2m, pdf 链接: [https://pan.baidu.com/s/1reQDo6chTY4Vx-SDlTAONg](https://pan.baidu.com/s/1reQDo6chTY4Vx-SDlTAONg) 提取码: csfn
-
-- UNIX 网络编程卷 1：套接字联网 API(第 3 版),89.5m,链接: [https://pan.baidu.com/s/1Y64Joz3QH72capG80Z6uZQ](https://pan.baidu.com/s/1Y64Joz3QH72capG80Z6uZQ), 提取码: y3tx
-
-- UNIX 编程艺术
-
-  - 23.6m, pdf 链接: [https://pan.baidu.com/s/1PXzKqDBeGqzaQXW54gHDww](https://pan.baidu.com/s/1PXzKqDBeGqzaQXW54gHDww) 提取码: fx4t
-
 ### Shell
 
 - Linux shell 编程从初学到精通,81.4m,链接: [https://pan.baidu.com/s/1rSm2WjLKYL7M12AIwrPqyg](https://pan.baidu.com/s/1rSm2WjLKYL7M12AIwrPqyg), 提取码: abjx
-
-- Linux Shell 脚本攻略-第 2 版,33.6m,链接: [https://pan.baidu.com/s/1NtYwTfgQyjvPR-k_bjdoHg](https://pan.baidu.com/s/1NtYwTfgQyjvPR-k_bjdoHg) 提取码: 2mh6
-
-## 数据结构
-
-- 数据结构(C 语言版).严蔚敏吴伟民,29m,
-
-- pdf 链接: [https://pan.baidu.com/s/1GqdAhjQ7YasmBw49PW02gA](https://pan.baidu.com/s/1GqdAhjQ7YasmBw49PW02gA) 提取码: qa9e
-
-- 大话数据结构,53.8m,链接:[https://pan.baidu.com/s/1q5n0ztrsNtbikoVL7AJPUQ](https://pan.baidu.com/s/1q5n0ztrsNtbikoVL7AJPUQ), 密码:2gww
-
-- 数据结构与抽象 Java 语言描述 第 4 版,138.2m,链接: [https://pan.baidu.com/s/1MdJMyPoy7sft-GSVg1rNeA](https://pan.baidu.com/s/1MdJMyPoy7sft-GSVg1rNeA), 提取码: 7zrr
-
-- 数据结构与算法 Java 版,157.4m,链接: [https://pan.baidu.com/s/1NQ8TTFbGtHAOChFCif3cKQ](https://pan.baidu.com/s/1NQ8TTFbGtHAOChFCif3cKQ), 提取码: uihv
-
-- 数据结构与算法 Python 语言描述裘宗燕,77.9m,链接: [https://pan.baidu.com/s/18-gJ-7exil9Vv5cg7NruoA](https://pan.baidu.com/s/18-gJ-7exil9Vv5cg7NruoA) 提取码: i4gy
-
-- C++数据结构-邓俊辉,37.3m,链接: [https://pan.baidu.com/s/1n5hjrbncIYHtt_6eXI3gyg](https://pan.baidu.com/s/1n5hjrbncIYHtt_6eXI3gyg) 提取码: imte
-
-- 数据结构与算法（第四版）廖明宏，11.5m，链接: [https://pan.baidu.com/s/1qCk-pyFWKDPJSuZw7mxF5g](https://pan.baidu.com/s/1qCk-pyFWKDPJSuZw7mxF5g) 提取码: h6j3
-
-## 设计模式
-
-- 图解设计模式,63.9m,链接: [https://pan.baidu.com/s/1SRDCGJrCTiq-MkaADxDOtw](https://pan.baidu.com/s/1SRDCGJrCTiq-MkaADxDOtw), 提取码: 76p7
-
-- HeadFirst 设计模式-中文版,133.6m,链接: [https://pan.baidu.com/s/1B2iXteQTniQQuZ4PvIDUmw](https://pan.baidu.com/s/1B2iXteQTniQQuZ4PvIDUmw), 提取码: rqxd
-
-- 精通 Python 设计模式, 28m,链接: [https://pan.baidu.com/s/1Vn4GgP201IlG5BKsAXVfyw](https://pan.baidu.com/s/1Vn4GgP201IlG5BKsAXVfyw) 提取码: 3mvz
-
-## code
-
-- 编程珠玑(第 2 版)
-
-  - 45.9m,链接: [https://pan.baidu.com/s/1tZd2LJnmc5qtu6-bycevsQ](https://pan.baidu.com/s/1tZd2LJnmc5qtu6-bycevsQ), 提取码: ds23
-
-- 编程之美
-
-  - 37m,链接: [https://pan.baidu.com/s/1ZPx1fZDxaepTPKUfFPOLKQ](https://pan.baidu.com/s/1ZPx1fZDxaepTPKUfFPOLKQ) 提取码: cibw
-
-- 编程原本,30m,链接: [https://pan.baidu.com/s/1hu2xwiIzLLquHqhcV0BduQ](https://pan.baidu.com/s/1hu2xwiIzLLquHqhcV0BduQ) 提取码: 2p5c
 
 ## 算法
 
@@ -306,8 +76,6 @@
 
 - 挑战程序设计竞赛(第 2 版),92.6m,链接: [https://pan.baidu.com/s/1LWnsZIEe1lWNYLhWyPjtwQ](https://pan.baidu.com/s/1LWnsZIEe1lWNYLhWyPjtwQ),提取码: 7knx
 
-- 剑指 offer 纪念版，54m,链接: [https://pan.baidu.com/s/16LO86S0vbr-nSoLXOTLdZA](https://pan.baidu.com/s/16LO86S0vbr-nSoLXOTLdZA) 提取码: bu3f
-
 - 计算几何-算法设计与分析-周培德(第 3 版)，44.5m，链接: [https://pan.baidu.com/s/1oKtRybqR5BIVdXP-a5f-iQ](https://pan.baidu.com/s/1oKtRybqR5BIVdXP-a5f-iQ) 提取码: wnwd
 
 - labuladong 的算法小抄,101.5m,链接: [https://pan.baidu.com/s/1BaYL03R6Der3AvhLsuCa4Q](https://pan.baidu.com/s/1BaYL03R6Der3AvhLsuCa4Q) 提取码: ftam
@@ -323,18 +91,6 @@
 - 人工智能的未来-霍金斯
 
   - 28.9m,pdf 链接: [https://pan.baidu.com/s/1nhsl4LQ-13CV5NJWx9a3Gg](https://pan.baidu.com/s/1nhsl4LQ-13CV5NJWx9a3Gg) 提取码: xrte
-
-### 机器学习
-
-- 周志华-机器学习,89.8m,链接: [https://pan.baidu.com/s/1bT-ESCQoepODHOLvQj4kXg](https://pan.baidu.com/s/1bT-ESCQoepODHOLvQj4kXg), 提取码: yp84
-
-- TensorFlow 机器学习实战指南,74.9m,链接:[https://pan.baidu.com/s/1Cip5Rha8fUuLEWXUSoegNA](https://pan.baidu.com/s/1Cip5Rha8fUuLEWXUSoegNA), 密码:ycs2
-
-- 机器学习导论-第 2 版,77.8m,链接: [https://pan.baidu.com/s/1Q8VRCurcO89U2LO6B8ymdQ](https://pan.baidu.com/s/1Q8VRCurcO89U2LO6B8ymdQ), 提取码: gtj6
-
-- 图解机器学习,59.4m,链接: [https://pan.baidu.com/s/1zBRsLgZsArQ1-8uzXVr2vA](https://pan.baidu.com/s/1zBRsLgZsArQ1-8uzXVr2vA), 提取码: j3g1
-
-- 实用机器学习,175.7m,链接: [https://pan.baidu.com/s/1E36pJQYiRLkeb6nJ8JUftA](https://pan.baidu.com/s/1E36pJQYiRLkeb6nJ8JUftA), 提取码: dpze
 
 ### 深度学习
 
@@ -364,25 +120,9 @@
 
 - HBase 不睡觉书,262.3m,链接: [https://pan.baidu.com/s/1IlQ9zJwsLGKft3nDGERk8w](https://pan.baidu.com/s/1IlQ9zJwsLGKft3nDGERk8w) 提取码: xy3w
 
-## 网络安全
-
-- 深入浅出密码学 常用加密技术原理与应用,41m,链接: [https://pan.baidu.com/s/1sQZNPUIhx3B8fAhsBTlNSA](https://pan.baidu.com/s/1sQZNPUIhx3B8fAhsBTlNSA) 提取码: crk5
-
-- 密码编码学与网络安全 原理与实践 第 7 版-威廉·斯托林斯，207.8m，链接: [https://pan.baidu.com/s/1s89FXuOAXWdwXXoWqw50lA](https://pan.baidu.com/s/1s89FXuOAXWdwXXoWqw50lA) 提取码: gxhq
-
 ## 大数据
 
 - 数据密集型应用系统设计,297m,链接: [https://pan.baidu.com/s/1ClZNlKmdWFKY2BWNrA4vDw](https://pan.baidu.com/s/1ClZNlKmdWFKY2BWNrA4vDw), 提取码: nr4k
-
-## 服务器
-
-- Nginx 高性能 Web 服务器详解,71.1m,链接:[https://pan.baidu.com/s/1RM4-kpYPFoQj4ysxoeZETw](https://pan.baidu.com/s/1RM4-kpYPFoQj4ysxoeZETw), 密码:00f5
-
-- 精通 Nginx,73.8m,链接: [https://pan.baidu.com/s/1QPdn_rWVbf-XTU2iESP6CA](https://pan.baidu.com/s/1QPdn_rWVbf-XTU2iESP6CA), 提取码: ni66
-
-- 深入理解 Nginx 模块开发与架构解析
-
-  - 48m,pdf 链接: [https://pan.baidu.com/s/1MgutYN4sdSZ_MylvVIzkfA](https://pan.baidu.com/s/1MgutYN4sdSZ_MylvVIzkfA) 提取码: viqs
 
 ## 前端
 
@@ -410,21 +150,7 @@
 
 - Three.js 开发指南-第 2 版,50.7m,链接: [https://pan.baidu.com/s/1dnsv2if_VmBLMm3Hy4uJkg](https://pan.baidu.com/s/1dnsv2if_VmBLMm3Hy4uJkg), 提取码: xgvx
 
-### CSS
-
-- CSS 世界-张鑫旭,44.7m,链接: [https://pan.baidu.com/s/1qDqWpxJS6Yl3BlN61fPzoA](https://pan.baidu.com/s/1qDqWpxJS6Yl3BlN61fPzoA), 提取码: yk6b
-
-- CSS 权威指南-第三版,62m,链接: [https://pan.baidu.com/s/1jtZR8nri1XNmKBpsaDx65g](https://pan.baidu.com/s/1jtZR8nri1XNmKBpsaDx65g) 提取码: wqmd
-
-- CSS3 学习必备书籍-CSS3 实战,76.7m,链接:[https://pan.baidu.com/s/1CsyqqBjZErJ2-YdweF9SrQ](https://pan.baidu.com/s/1CsyqqBjZErJ2-YdweF9SrQ), 密码:kpyy
-
-- CSS 那些事儿
-
-  - 72.6m,pdf 链接: [https://pan.baidu.com/s/19GT9rrDd73d8IcA2s6adcQ](https://pan.baidu.com/s/19GT9rrDd73d8IcA2s6adcQ) 提取码: hdje
-
 ### Node
-
-- Node.js 进阶之路,44m,链接: [https://pan.baidu.com/s/1gUgqb8Ca5JFNVAEEAa6U4A](https://pan.baidu.com/s/1gUgqb8Ca5JFNVAEEAa6U4A), 提取码: rea9
 
 - 了不起的 Node js 将 JavaScript 进行到底,49.7m,链接: [https://pan.baidu.com/s/1nSdtJmDBoFuYNw6lFYHvZw](https://pan.baidu.com/s/1nSdtJmDBoFuYNw6lFYHvZw) 提取码: r98n
 
@@ -435,8 +161,6 @@
 - 精通正则表达式-第三版-美-佛瑞德,54.9m,链接: [https://pan.baidu.com/s/1VMe7DDffgYwKde7-JJXtlg](https://pan.baidu.com/s/1VMe7DDffgYwKde7-JJXtlg), 提取码: ci3d
 
 ### 框架
-
-- Javascript 框架设计,127.1m,链接: [https://pan.baidu.com/s/1jXFzImKNZRnnwLkSI_oeCA](https://pan.baidu.com/s/1jXFzImKNZRnnwLkSI_oeCA), 提取码: 4ug9
 
 - 权威指南 Vue.js2,146.6m,链接:[https://pan.baidu.com/s/1k3AghECvotORgJ1tUOoaOQ](https://pan.baidu.com/s/1k3AghECvotORgJ1tUOoaOQ),  提取码:g0xx
 
@@ -453,20 +177,6 @@
 ### 安全
 
 - Web 前端黑客技术揭秘,69.5m,链接:[https://pan.baidu.com/s/13yr6SnCDcvS94SnFcEDY8A](https://pan.baidu.com/s/13yr6SnCDcvS94SnFcEDY8A), 密码:awlt
-
-## code
-
-- 架构整洁之道,99m,链接: [https://pan.baidu.com/s/1kx6tY2qPXqDk8toQWivuRw](https://pan.baidu.com/s/1kx6tY2qPXqDk8toQWivuRw) 提取码: ibec
-
-## 程序员
-
-- 程序员的思维修炼-崔康
-
-  - 47.9m,链接: [https://pan.baidu.com/s/1JvV8Ysf2h0VsMB8VDqjhZA](https://pan.baidu.com/s/1JvV8Ysf2h0VsMB8VDqjhZA), 提取码: 2qmj
-
-- 文明之光-吴军
-
-  - 18.8m,pdf 链接: [https://pan.baidu.com/s/1rj31MdBgd5eNYBAZBQc6yQ](https://pan.baidu.com/s/1rj31MdBgd5eNYBAZBQc6yQ) 提取码: tbm8
 
 ## 数学
 
@@ -517,3 +227,257 @@
 - 经济学原理第 7 版微观经济学分册,103m,链接: [https://pan.baidu.com/s/1MPueu2Z5uJcej0cXLPNiyg](https://pan.baidu.com/s/1MPueu2Z5uJcej0cXLPNiyg), 提取码: 2fhj
 
 - 经济学原理第 7 版宏观经济学分册,147m,链接: [https://pan.baidu.com/s/1pzgeE9rc2uSUB4sEe_IqYg](https://pan.baidu.com/s/1pzgeE9rc2uSUB4sEe_IqYg), 提取码: b1js
+
+## 计算机
+
+### 机器学习
+
+- 周志华-机器学习,89.8m,链接: [https://pan.baidu.com/s/1bT-ESCQoepODHOLvQj4kXg](https://pan.baidu.com/s/1bT-ESCQoepODHOLvQj4kXg), 提取码: yp84
+
+- TensorFlow 机器学习实战指南,74.9m,链接:[https://pan.baidu.com/s/1Cip5Rha8fUuLEWXUSoegNA](https://pan.baidu.com/s/1Cip5Rha8fUuLEWXUSoegNA), 密码:ycs2
+
+- 机器学习导论-第 2 版,77.8m,链接: [https://pan.baidu.com/s/1Q8VRCurcO89U2LO6B8ymdQ](https://pan.baidu.com/s/1Q8VRCurcO89U2LO6B8ymdQ), 提取码: gtj6
+
+- 图解机器学习,59.4m,链接: [https://pan.baidu.com/s/1zBRsLgZsArQ1-8uzXVr2vA](https://pan.baidu.com/s/1zBRsLgZsArQ1-8uzXVr2vA), 提取码: j3g1
+
+- 实用机器学习,175.7m,链接: [https://pan.baidu.com/s/1E36pJQYiRLkeb6nJ8JUftA](https://pan.baidu.com/s/1E36pJQYiRLkeb6nJ8JUftA), 提取码: dpze
+
+- 机器学习实战,链接: [https://pan.baidu.com/s/1oShuIprUMT9ykPKVUaPbMQ](https://pan.baidu.com/s/1oShuIprUMT9ykPKVUaPbMQ) 提取码: yqnq
+
+### 计算机网络
+
+链接: [https://pan.baidu.com/s/14qDALOCHpzDKr_cFW69IhQ](https://pan.baidu.com/s/14qDALOCHpzDKr_cFW69IhQ) 提取码: q8pa
+
+- TCP-IP 详解(卷一、二、三)
+
+- 计算机网络(第 7 版) 谢希仁
+
+- 图解 TCPIP
+
+- 计算机网络-自顶向下方法
+
+- HTTP 权威指南
+
+### 编译原理
+
+链接: [https://pan.baidu.com/s/1pYDZ55OjBo-qkttagmBwRg](https://pan.baidu.com/s/1pYDZ55OjBo-qkttagmBwRg) 提取码: uydj
+
+- 自制编程语言
+
+### 网络安全
+
+链接: [https://pan.baidu.com/s/1p_kZIcS9iQjJIZ6AFAX1Eg](https://pan.baidu.com/s/1p_kZIcS9iQjJIZ6AFAX1Eg) 提取码: np54
+
+- 密码编码学与网络安全 原理与实践 第 7 版-威廉·斯托林斯
+
+- 深入浅出密码学 常用加密技术原理与应用
+
+### 编程语言
+
+链接: [https://pan.baidu.com/s/12eUfNtk3pvayGd3HyGO0Rg](https://pan.baidu.com/s/12eUfNtk3pvayGd3HyGO0Rg) 提取码: mqj4
+
+#### c
+
+- C Primer Plus
+
+#### cpp
+
+- C++ Primer Plus
+
+- C++编程规范 101 条规则、准则最佳实践
+
+- C++编程思想(第 2 版)-第 1 卷
+
+- C++程序设计原理与实践
+
+- C++语言程序设计第四版-郑莉
+
+- C++标准程序库 简体中文版
+
+- C++编程惯用法-高级程序员常用用法和技巧
+
+#### 汇编
+
+- 汇编语言
+
+#### R
+
+- R 语言编程艺术
+
+#### _C#_
+
+- C#图解教程
+
+- C#高级编程
+
+#### Js
+
+- Node.js 进阶之路
+
+### JavaScript
+
+- 你不知道的 JavaScript
+
+- JavaScript 权威指南(第六版)
+
+- JavaScript 高级程序设计
+
+- JavaScript 语言精粹
+
+- JavaScript 函数式编程
+
+- JavaScript 面向对象编程指南
+
+- 编写可维护的 JavaScript 中文版
+
+- JavaScript+DOM 编程艺术
+
+- Javascript 框架设计
+
+#### Go
+
+- Go 程序设计语言
+
+- Go Web 编程
+
+- Go 语言核心编程-李文塔
+
+- Go 并发编程实战-第 2 版
+
+- Go 语言程序设计-Mark
+
+- Go 语言程序设计-王鹏
+
+#### Java
+
+- Java 核心技术卷 1 基础知识原书第 10 版
+
+- Java 核心技术 卷 2 高级特性 原书第 10 版
+
+- Java 编程的逻辑
+
+- Spring 实战第 4 版
+
+- Spring 技术内幕：深入解析 Spring 架构与设计原理(第 2 版)
+
+- 重新定义 Spring Cloud 实战
+
+### 编程
+
+链接: [https://pan.baidu.com/s/1GXbu48uYfV9IZX36XOHfMg](https://pan.baidu.com/s/1GXbu48uYfV9IZX36XOHfMg) 提取码: n7ef
+
+- 架构整洁之道
+
+- 编程原本
+
+- 程序员的思维修炼
+
+- 编程之美
+
+- 编程的奥秘
+
+- 编程珠玑(第 2 版)
+
+### 算法
+
+- 剑指 Offer,链接: [https://pan.baidu.com/s/13SVVNusBZ9SzG95uhXBq7g](https://pan.baidu.com/s/13SVVNusBZ9SzG95uhXBq7g) 提取码: bpyv
+
+### 互联网
+
+链接: [https://pan.baidu.com/s/1tnNZgywlaRu-h74QFQfgWg](https://pan.baidu.com/s/1tnNZgywlaRu-h74QFQfgWg) 提取码: f7ni
+
+- 看见未来：改变互联网世界的人们(余晨)
+
+- 文明之光
+
+### 数据结构
+
+链接: [https://pan.baidu.com/s/1i90KLtdNUKBkK-nf_P-ejQ](https://pan.baidu.com/s/1i90KLtdNUKBkK-nf_P-ejQ) 提取码: bm5a
+
+- 数据结构(C 语言版).严蔚敏吴伟民
+
+- 大话数据结构
+
+- 数据结构与抽象 Java 语言描述 第 4 版
+
+- 数据结构与算法 Java 版
+
+- 数据结构与算法 Python 语言描述裘宗燕
+
+- C++数据结构-邓俊辉
+
+- 数据结构与算法（第四版）廖明宏
+
+### 操作系统
+
+链接: [https://pan.baidu.com/s/1xG0wQnvxDgVqZBbHWiO2UQ](https://pan.baidu.com/s/1xG0wQnvxDgVqZBbHWiO2UQ) 提取码: e575
+
+- 深入理解计算机系统
+
+- 现代操作系统（第 3 版）
+
+- 操作系统原理第 4 版
+
+#### Linux
+
+- 循序渐进 Linux-第 2 版-服务器搭建系统
+
+- Linux 内核设计与实现
+
+- Linux Shell 脚本攻略-第 2 版
+
+- 鸟哥的 LINUX 私房菜-基础学习篇(第三版)
+
+- Linux 运维之道
+
+- Linux 命令详解词典
+
+- 深入 Linux 内核架构
+
+#### UNIX
+
+- UNIX 环境高级编程（第三版）
+
+- UNIX 网络编程卷 1：套接字联网 API(第 3 版)
+
+- UNIX 编程艺术
+
+#### Docker
+
+- Docker 进阶与实战-华为 Docker 实践小组
+
+#### 服务器
+
+- Nginx 高性能 Web 服务器详解
+
+- 精通 Nginx
+
+- 深入理解 Nginx 模块开发与架构解析
+
+### 设计模式
+
+链接: [https://pan.baidu.com/s/1vgOawSpVqQUW800mxpHStw](https://pan.baidu.com/s/1vgOawSpVqQUW800mxpHStw) 提取码: gadc
+
+- 图解设计模式
+
+- HeadFirst 设计模式
+
+- 精通 Python 设计模式
+
+- JavaScript 设计模式
+
+- 大话设计模式
+
+### 前端
+
+链接: [https://pan.baidu.com/s/1zjfLq5IT0WvN6ZxucU9azQ](https://pan.baidu.com/s/1zjfLq5IT0WvN6ZxucU9azQ) 提取码: e17s
+
+#### CSS
+
+- CSS 世界-张鑫旭
+
+- CSS 权威指南-第三版
+
+- CSS3 实战
+
+- CSS 那些事儿
