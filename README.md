@@ -454,7 +454,9 @@
 
 ## 数据结构
 
-- 数据结构(C 语言版).严蔚敏吴伟民,29m,链接: [https://pan.baidu.com/s/1GqdAhjQ7YasmBw49PW02gA](https://pan.baidu.com/s/1GqdAhjQ7YasmBw49PW02gA) 提取码: qa9e
+- 数据结构(C 语言版).严蔚敏吴伟民,29m,
+
+- pdf 链接: [https://pan.baidu.com/s/1GqdAhjQ7YasmBw49PW02gA](https://pan.baidu.com/s/1GqdAhjQ7YasmBw49PW02gA) 提取码: qa9e
 
 - 大话数据结构,53.8m,链接:[https://pan.baidu.com/s/1q5n0ztrsNtbikoVL7AJPUQ](https://pan.baidu.com/s/1q5n0ztrsNtbikoVL7AJPUQ), 密码:2gww
 
@@ -517,20 +519,6 @@
 - 编程之美
 
   - 37m,链接: [https://pan.baidu.com/s/1ZPx1fZDxaepTPKUfFPOLKQ](https://pan.baidu.com/s/1ZPx1fZDxaepTPKUfFPOLKQ) 提取码: cibw
-
-  - 5.3m,[epub 链接](https://image.xjq.icu/books/%E7%A8%8B%E5%BA%8F%E5%91%98/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E%E5%BE%AE%E8%BD%AF%E6%8A%80%E6%9C%AF%E9%9D%A2%E8%AF%95%E5%BF%83%E5%BE%97.epub)
-
-- 代码大全(第二版)
-
-  - 21.2m,[pdf 链接](https://image.xjq.icu/books/%E4%BB%A3%E7%A0%81%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
-
-- 人月神话,2.7m,[pdf 链接](https://image.xjq.icu/books/%E4%BA%BA%E6%9C%88%E7%A5%9E%E8%AF%9D.pdf)
-
-- 人月神话(二十周年纪念版) - 弗雷德里克·布鲁克斯
-
-  - 2.4m,[epub 链接](<https://image.xjq.icu/books/%E7%A8%8B%E5%BA%8F%E5%91%98/%E4%BA%BA%E6%9C%88%E7%A5%9E%E8%AF%9D(%E4%BA%8C%E5%8D%81%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E7%89%88)%20-%20%E5%BC%97%E9%9B%B7%E5%BE%B7%E9%87%8C%E5%85%8B%C2%B7%E5%B8%83%E9%B2%81%E5%85%8B%E6%96%AF.epub>)
-
-- 代码整洁之道,15.7m,[pdf 链接](https://image.xjq.icu/books/%E4%BB%A3%E7%A0%81%E6%95%B4%E6%B4%81%E4%B9%8B%E9%81%93.pdf)
 
 - 编程原本,30m,链接: [https://pan.baidu.com/s/1hu2xwiIzLLquHqhcV0BduQ](https://pan.baidu.com/s/1hu2xwiIzLLquHqhcV0BduQ) 提取码: 2p5c
 
