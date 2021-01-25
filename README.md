@@ -92,10 +92,6 @@
 
 - Three.js 开发指南-第 2 版,50.7m,链接: [https://pan.baidu.com/s/1dnsv2if_VmBLMm3Hy4uJkg](https://pan.baidu.com/s/1dnsv2if_VmBLMm3Hy4uJkg), 提取码: xgvx
 
-### Node
-
-- 了不起的 Node js 将 JavaScript 进行到底,49.7m,链接: [https://pan.baidu.com/s/1nSdtJmDBoFuYNw6lFYHvZw](https://pan.baidu.com/s/1nSdtJmDBoFuYNw6lFYHvZw) 提取码: r98n
-
 ### 正则表达式
 
 - 正则表达式手册,[https://tool.oschina.net/uploads/apidocs/jquery/regexp.html](https://tool.oschina.net/uploads/apidocs/jquery/regexp.html)
@@ -180,21 +176,15 @@
 
 - 期货市场国际化
 
+- 非理性繁荣与金融危机
+
 ## 计算机
 
-### 机器学习
+### 科普
 
-- 周志华-机器学习,89.8m,链接: [https://pan.baidu.com/s/1bT-ESCQoepODHOLvQj4kXg](https://pan.baidu.com/s/1bT-ESCQoepODHOLvQj4kXg), 提取码: yp84
+链接: [https://pan.baidu.com/s/1LQCKGo6Ljo3VOU1WSz8tDg](https://pan.baidu.com/s/1LQCKGo6Ljo3VOU1WSz8tDg) 提取码: 2pbs
 
-- TensorFlow 机器学习实战指南,74.9m,链接:[https://pan.baidu.com/s/1Cip5Rha8fUuLEWXUSoegNA](https://pan.baidu.com/s/1Cip5Rha8fUuLEWXUSoegNA), 密码:ycs2
-
-- 机器学习导论-第 2 版,77.8m,链接: [https://pan.baidu.com/s/1Q8VRCurcO89U2LO6B8ymdQ](https://pan.baidu.com/s/1Q8VRCurcO89U2LO6B8ymdQ), 提取码: gtj6
-
-- 图解机器学习,59.4m,链接: [https://pan.baidu.com/s/1zBRsLgZsArQ1-8uzXVr2vA](https://pan.baidu.com/s/1zBRsLgZsArQ1-8uzXVr2vA), 提取码: j3g1
-
-- 实用机器学习,175.7m,链接: [https://pan.baidu.com/s/1E36pJQYiRLkeb6nJ8JUftA](https://pan.baidu.com/s/1E36pJQYiRLkeb6nJ8JUftA), 提取码: dpze
-
-- 机器学习实战,链接: [https://pan.baidu.com/s/1oShuIprUMT9ykPKVUaPbMQ](https://pan.baidu.com/s/1oShuIprUMT9ykPKVUaPbMQ) 提取码: yqnq
+- 计算进化史改变数学的命运
 
 ### 计算机网络
 
@@ -209,6 +199,8 @@
 - 计算机网络-自顶向下方法
 
 - HTTP 权威指南
+
+- 深入理解计算机网络
 
 ### 编译原理
 
@@ -264,10 +256,6 @@
 
 - C#高级编程
 
-#### Js
-
-- Node.js 进阶之路
-
 ### JavaScript
 
 - 你不知道的 JavaScript
@@ -287,6 +275,12 @@
 - JavaScript+DOM 编程艺术
 
 - Javascript 框架设计
+
+- Node.js 进阶之路
+
+- Node.js 开发指南,epub
+
+- 了不起的 Node js 将 JavaScript 进行到底,pdf
 
 #### Go
 
@@ -334,13 +328,17 @@
 
 - 编码：隐匿在计算机软硬件背后的语言
 
+- 编程大师访谈录
+
+- 重构改善既有代码的设计第 2 版,epub
+
 ### 算法
 
 链接: [https://pan.baidu.com/s/1NHX0YhgJ3Z712Zquq8qutw](https://pan.baidu.com/s/1NHX0YhgJ3Z712Zquq8qutw) 提取码: 9akt
 
 - 剑指 Offer
 
-- 漫画算法-小灰的算法之旅
+- 漫画算法:小灰的算法之旅
 
 - 算法基础.打开算法之门
 
@@ -348,7 +346,7 @@
 
 - 算法导论(原书第 2 版)
 
-- 啊哈！算法
+- 啊哈！算法,pdf
 
 - 趣学算法
 
@@ -358,15 +356,17 @@
 
 - 计算几何-算法设计与分析-周培德(第 3 版)
 
-- labuladong 的算法小抄
+- labuladong 的算法小抄,pdf
 
 - 算法设计与应用
 
-- 算法竞赛入门经典第 2 版
+- 算法竞赛入门经典第 2 版,epub
 
 - 算法之美：指导工作与生活的算法
 
 - 天才与算法
+
+- 改变未来的九大算法,epub,mobi
 
 ### 互联网
 
@@ -375,6 +375,8 @@
 - 看见未来：改变互联网世界的人们(余晨)
 
 - 文明之光
+
+- 浪潮之巅
 
 ### 数据结构
 
@@ -398,12 +400,6 @@
 
 链接: [https://pan.baidu.com/s/1xG0wQnvxDgVqZBbHWiO2UQ](https://pan.baidu.com/s/1xG0wQnvxDgVqZBbHWiO2UQ) 提取码: e575
 
-- 深入理解计算机系统
-
-- 现代操作系统（第 3 版）
-
-- 操作系统原理第 4 版
-
 #### Linux
 
 - 循序渐进 Linux-第 2 版-服务器搭建系统
@@ -420,6 +416,10 @@
 
 - 深入 Linux 内核架构
 
+- Linux 就该这么学
+
+- 深入 Linux 内核架构
+
 #### UNIX
 
 - UNIX 环境高级编程（第三版）
@@ -430,7 +430,7 @@
 
 #### Docker
 
-- Docker 进阶与实战-华为 Docker 实践小组
+- Docker 进阶与实战-华为 Docker 实践小组,pdf,epub
 
 #### 服务器
 
@@ -439,6 +439,16 @@
 - 精通 Nginx
 
 - 深入理解 Nginx 模块开发与架构解析
+
+#### 其他
+
+- 深入理解计算机系统
+
+- 现代操作系统（第 3 版）
+
+- 操作系统原理第 4 版
+
+- 操作系统简化版
 
 ### 设计模式
 
@@ -497,5 +507,19 @@
 - HBase 不睡觉书
 
 ### 机器学习
+
+链接: [https://pan.baidu.com/s/1gPjtFTvFso7Em2ex52r1DA](https://pan.baidu.com/s/1gPjtFTvFso7Em2ex52r1DA) 提取码: p7nt
+
+- 机器学习实战
+
+- 周志华-机器学习
+
+- TensorFlow 机器学习实战指南
+
+- 机器学习导论-第 2 版
+
+- 图解机器学习
+
+- 实用机器学习
 
 ### 深度学习
