@@ -164,11 +164,21 @@
 
   - 56.4m,pdf 链接: [https://pan.baidu.com/s/1qf0vlUEcPbju09Y8jUpnFA](https://pan.baidu.com/s/1qf0vlUEcPbju09Y8jUpnFA) 提取码: nuge
 
-### 经济学
+## 经济学
 
-- 经济学原理第 7 版微观经济学分册,103m,链接: [https://pan.baidu.com/s/1MPueu2Z5uJcej0cXLPNiyg](https://pan.baidu.com/s/1MPueu2Z5uJcej0cXLPNiyg), 提取码: 2fhj
+链接: [https://pan.baidu.com/s/1rzeRYIux5N2ZQSl-AmQxRA](https://pan.baidu.com/s/1rzeRYIux5N2ZQSl-AmQxRA) 提取码: 7hyn
 
-- 经济学原理第 7 版宏观经济学分册,147m,链接: [https://pan.baidu.com/s/1pzgeE9rc2uSUB4sEe_IqYg](https://pan.baidu.com/s/1pzgeE9rc2uSUB4sEe_IqYg), 提取码: b1js
+- 经济学原理第 7 版微观经济学分册
+
+- 经济学原理第 7 版宏观经济学分册
+
+- 增长的错觉
+
+- 中国奇迹的背后
+
+- 中国式创新孵化
+
+- 期货市场国际化
 
 ## 计算机
 
@@ -351,6 +361,12 @@
 - labuladong 的算法小抄
 
 - 算法设计与应用
+
+- 算法竞赛入门经典第 2 版
+
+- 算法之美：指导工作与生活的算法
+
+- 天才与算法
 
 ### 互联网
 
