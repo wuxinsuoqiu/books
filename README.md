@@ -70,6 +70,8 @@
 
 ## 数学
 
+链接: [https://pan.baidu.com/s/1k4WMEBnjRZFI_cE-cqEB7g](https://pan.baidu.com/s/1k4WMEBnjRZFI_cE-cqEB7g) 提取码: sncb
+
 - 数学之美-第 2 版,51.8m,链接: [https://pan.baidu.com/s/1H3w9eR9F5npqD_27v96HUQ](https://pan.baidu.com/s/1H3w9eR9F5npqD_27v96HUQ) 提取码: 9rhx
 
 - 3D 数学基础：图形与游戏开发
@@ -84,33 +86,25 @@
 
 - 同济大学高等数学第七版下册
 
-  - 85.5m, pdf 链接: [https://pan.baidu.com/s/1qpUrWKjmKdn1iwFP9LLfhA](https://pan.baidu.com/s/1qpUrWKjmKdn1iwFP9LLfhA) 提取码: 9ry6
-
 - 高等数学 同济第 7 版 下册 习题全解指南 课后习题答案解析
-
-  - 45m, pdf 链接: [https://pan.baidu.com/s/1jszKKxn8lQp9X9E1oqXyYw](https://pan.baidu.com/s/1jszKKxn8lQp9X9E1oqXyYw) 提取码: 7kyt
 
 - 高等数学 同济第 7 版 上册 习题全解指南 课后习题答案解析
 
-  - 41m, pdf 链接: [https://pan.baidu.com/s/1ZUz3Vp_NgRbSdEvFWWuTzg](https://pan.baidu.com/s/1ZUz3Vp_NgRbSdEvFWWuTzg) 提取码: 94vf
-
 ### 统计学
 
-- 概率论与数理统计-第四版-盛骤,39.3m,链接: [https://pan.baidu.com/s/1vUafJPCVyBpFDqfOaqkPBg](https://pan.baidu.com/s/1vUafJPCVyBpFDqfOaqkPBg), 提取码: ddup
+- 统计学习基础 数据挖掘、推理与预测
 
-- 概率论与数理统计习题全解指南-浙大四版-盛骤,48.3m,链接: [https://pan.baidu.com/s/1QfnnuzNoCAKYN_RT6rY0Sg](https://pan.baidu.com/s/1QfnnuzNoCAKYN_RT6rY0Sg), 提取码: kaz7
+- 概率论与数理统计-第四版-盛骤
 
-- 概率论基础教程-第 9 版-美-罗斯,90.3m,链接: [https://pan.baidu.com/s/1cm_vVO8NSiRBZlK18LqLzg](https://pan.baidu.com/s/1cm_vVO8NSiRBZlK18LqLzg), 提取码: w1ah
+- 概率论与数理统计习题全解指南-浙大四版-盛骤
 
-- 统计学习基础 数据挖掘、推理与预测,94m,链接: [https://pan.baidu.com/s/1KPykkxmFm4qxMtkyXVArMA](https://pan.baidu.com/s/1KPykkxmFm4qxMtkyXVArMA), 提取码: mt3h
+- 概率论基础教程-第 9 版
 
 ### 线性代数
 
-- 线性代数及其应用中文版(美)David CLay2005,48.6m,链接: [https://pan.baidu.com/s/1Kn9YuAc7UbKycGMjPljPGQ](https://pan.baidu.com/s/1Kn9YuAc7UbKycGMjPljPGQ), 提取码: x62a
+- 线性代数及其应用
 
 - 线性代数习题全解（同济六版）
-
-  - 56.4m,pdf 链接: [https://pan.baidu.com/s/1qf0vlUEcPbju09Y8jUpnFA](https://pan.baidu.com/s/1qf0vlUEcPbju09Y8jUpnFA) 提取码: nuge
 
 ## 经济学
 
