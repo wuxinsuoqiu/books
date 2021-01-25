@@ -42,32 +42,6 @@
 
 - Linux shell 编程从初学到精通,81.4m,链接: [https://pan.baidu.com/s/1rSm2WjLKYL7M12AIwrPqyg](https://pan.baidu.com/s/1rSm2WjLKYL7M12AIwrPqyg), 提取码: abjx
 
-## 算法
-
-- 漫画算法-小灰的算法之旅,34.6m,链接: [https://pan.baidu.com/s/1pWp-dY6QpA0H4CGA6WQGtA](https://pan.baidu.com/s/1pWp-dY6QpA0H4CGA6WQGtA) 提取码: cupq
-
-- 算法基础.打开算法之门,42m,链接: [https://pan.baidu.com/s/10il-Rq8Ro7NrM16N93QsSQ](https://pan.baidu.com/s/10il-Rq8Ro7NrM16N93QsSQ), 提取码: a4cb
-
-- 算法导论(原书第 3 版)\_中文,48.8m,链接:[https://pan.baidu.com/s/1dPRj6DYsqwh4tvUc4QY4hw](https://pan.baidu.com/s/1dPRj6DYsqwh4tvUc4QY4hw), 提取码: hgpd
-
-- 算法导论(原书第 2 版)\_中文,57.9m,链接: [https://pan.baidu.com/s/1NCDo1U8Z8c78z5wEzPUqEg](https://pan.baidu.com/s/1NCDo1U8Z8c78z5wEzPUqEg), 提取码: eqn1
-
-- 啊哈！算法 啊哈磊,79.6m,链接: [https://pan.baidu.com/s/1-i9box3_5MDViXGKBaJBpw](https://pan.baidu.com/s/1-i9box3_5MDViXGKBaJBpw),提取码: x427
-
-- 趣学算法,100.4m,链接: [https://pan.baidu.com/s/1orHPk2DCvklAs0Ll6-klJA](https://pan.baidu.com/s/1orHPk2DCvklAs0Ll6-klJA) 提取码: 2uhe
-
-- 算法 第 4 版,191.3m,链接: [https://pan.baidu.com/s/1O60X9ju-IURK9DNzcl4j0A](https://pan.baidu.com/s/1O60X9ju-IURK9DNzcl4j0A) 提取码: crx9
-
-- 挑战程序设计竞赛(第 2 版),92.6m,链接: [https://pan.baidu.com/s/1LWnsZIEe1lWNYLhWyPjtwQ](https://pan.baidu.com/s/1LWnsZIEe1lWNYLhWyPjtwQ),提取码: 7knx
-
-- 计算几何-算法设计与分析-周培德(第 3 版)，44.5m，链接: [https://pan.baidu.com/s/1oKtRybqR5BIVdXP-a5f-iQ](https://pan.baidu.com/s/1oKtRybqR5BIVdXP-a5f-iQ) 提取码: wnwd
-
-- labuladong 的算法小抄,101.5m,链接: [https://pan.baidu.com/s/1BaYL03R6Der3AvhLsuCa4Q](https://pan.baidu.com/s/1BaYL03R6Der3AvhLsuCa4Q) 提取码: ftam
-
-- 算法设计与应用
-
-  - 88.8m,pdf 链接: [https://pan.baidu.com/s/1tbFw9YNd4IRWZ4ec3so1Yw](https://pan.baidu.com/s/1tbFw9YNd4IRWZ4ec3so1Yw) 提取码: c14i
-
 ## AI
 
 - 无人机技术概论,120.9m,链接: [https://pan.baidu.com/s/1b4WILCBuHq1mmDJfjpeUFA](https://pan.baidu.com/s/1b4WILCBuHq1mmDJfjpeUFA), 提取码: pvyc
@@ -87,22 +61,6 @@
 - Tensorflow 教程
 
   - 96.7m,pdf 链接: [https://pan.baidu.com/s/103k4TF7imFavbXROIYzTRQ](https://pan.baidu.com/s/103k4TF7imFavbXROIYzTRQ) 提取码: 1g62
-
-## 数据库
-
-- 深入理解 MySQL 核心技术（中文）,60m,链接: [https://pan.baidu.com/s/1SW8rbJYu3W6MFfHy9KOmZA](https://pan.baidu.com/s/1SW8rbJYu3W6MFfHy9KOmZA) 提取码: 53mf
-
-- MySQL 技术内幕：SQL 编程-姜承尧,13.8m,链接: [https://pan.baidu.com/s/1VPnPBPukb5jMwtkD53NQyg](https://pan.baidu.com/s/1VPnPBPukb5jMwtkD53NQyg) 提取码: xqm7
-
-- MySQL 必知必会，29.8m，链接: [https://pan.baidu.com/s/184IdSEJpN45krW3obmFSUw](https://pan.baidu.com/s/184IdSEJpN45krW3obmFSUw) 提取码: n87r
-
-- SQL 基础教程-第 2 版
-
-  - 22.1m,pdf 链接: [https://pan.baidu.com/s/1_OKyrEe57rDjkDG-EJrB4g](https://pan.baidu.com/s/1_OKyrEe57rDjkDG-EJrB4g) 提取码: hwkp
-
-- HBase 权威指南,45.1m,链接: [https://pan.baidu.com/s/1lGFtwxD7FGfeYihUHm-EyQ](https://pan.baidu.com/s/1lGFtwxD7FGfeYihUHm-EyQ), 提取码: 9eyd
-
-- HBase 不睡觉书,262.3m,链接: [https://pan.baidu.com/s/1IlQ9zJwsLGKft3nDGERk8w](https://pan.baidu.com/s/1IlQ9zJwsLGKft3nDGERk8w) 提取码: xy3w
 
 ## 大数据
 
@@ -364,9 +322,35 @@
 
 - 编程珠玑(第 2 版)
 
+- 编码：隐匿在计算机软硬件背后的语言
+
 ### 算法
 
-- 剑指 Offer,链接: [https://pan.baidu.com/s/13SVVNusBZ9SzG95uhXBq7g](https://pan.baidu.com/s/13SVVNusBZ9SzG95uhXBq7g) 提取码: bpyv
+链接: [https://pan.baidu.com/s/1NHX0YhgJ3Z712Zquq8qutw](https://pan.baidu.com/s/1NHX0YhgJ3Z712Zquq8qutw) 提取码: 9akt
+
+- 剑指 Offer
+
+- 漫画算法-小灰的算法之旅
+
+- 算法基础.打开算法之门
+
+- 算法导论(原书第 3 版)
+
+- 算法导论(原书第 2 版)
+
+- 啊哈！算法
+
+- 趣学算法
+
+- 算法 第 4 版
+
+- 挑战程序设计竞赛(第 2 版)
+
+- 计算几何-算法设计与分析-周培德(第 3 版)
+
+- labuladong 的算法小抄
+
+- 算法设计与应用
 
 ### 互联网
 
@@ -479,3 +463,23 @@
 - 计算机程序设计艺术 第 1 卷：基本算法（第三版）高清中文版
 
 - 计算的本质：深入剖析程序和计算机
+
+### 数据库
+
+链接: [https://pan.baidu.com/s/1B7LxUdEx-7isDkhtz1y6UQ](https://pan.baidu.com/s/1B7LxUdEx-7isDkhtz1y6UQ) 提取码: jca6
+
+- 深入理解 MySQL 核心技术（中文）
+
+- MySQL 技术内幕：SQL 编程-姜承尧
+
+- MySQL 必知必会
+
+- SQL 基础教程-第 2 版
+
+- HBase 权威指南
+
+- HBase 不睡觉书
+
+### 机器学习
+
+### 深度学习
