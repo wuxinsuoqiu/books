@@ -38,10 +38,6 @@
 
 - 软件设计师教程第 5 版,59.4m,链接: [https://pan.baidu.com/s/1xZ5GZ64i5yXOFqT9z9QYDg](https://pan.baidu.com/s/1xZ5GZ64i5yXOFqT9z9QYDg), 提取码: sj7p
 
-### Shell
-
-- Linux shell 编程从初学到精通,81.4m,链接: [https://pan.baidu.com/s/1rSm2WjLKYL7M12AIwrPqyg](https://pan.baidu.com/s/1rSm2WjLKYL7M12AIwrPqyg), 提取码: abjx
-
 ## AI
 
 - 无人机技术概论,120.9m,链接: [https://pan.baidu.com/s/1b4WILCBuHq1mmDJfjpeUFA](https://pan.baidu.com/s/1b4WILCBuHq1mmDJfjpeUFA), 提取码: pvyc
@@ -375,6 +371,8 @@
 - Linux 就该这么学
 
 - 深入 Linux 内核架构
+
+- Linux shell 编程从初学到精通
 
 #### UNIX
 
