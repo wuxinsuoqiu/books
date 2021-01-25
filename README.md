@@ -1,11 +1,5 @@
 每个大类下所有文件统一一个链接
 
-### C
-
-- 嗨翻 C 语言 (图灵程序设计丛书)
-
-  - 22.9m,epub 链接: [https://pan.baidu.com/s/1eO_ii9ZJ2X68Cc1wEnizJw](https://pan.baidu.com/s/1eO_ii9ZJ2X68Cc1wEnizJw) 提取码: msbk
-
 ### python
 
 - Python 高级编程第 2 版-张亮,80.6m,链接:[https://pan.baidu.com/s/1PvoyZQsezy7NkIUxRw04GQ](https://pan.baidu.com/s/1PvoyZQsezy7NkIUxRw04GQ), 密码:jhgj
@@ -42,19 +36,7 @@
 
 - Python 数据分析实战,55.3m,链接:[https://pan.baidu.com/s/1T_s4eCYUr7WwY7Tx2zeTWQ](https://pan.baidu.com/s/1T_s4eCYUr7WwY7Tx2zeTWQ), 密码:o027
 
-## 计算机基础
-
-- 计算机科学导论.佛罗赞,56.5m,链接: [https://pan.baidu.com/s/1fEdvjM4hnVPsbQMG_eKSew](https://pan.baidu.com/s/1fEdvjM4hnVPsbQMG_eKSew) 提取码: mb6r
-
-- 计算机科学概论(第 11 版),39.4m,链接: [https://pan.baidu.com/s/13uHmdp81Q-CKdsDehc-gdA](https://pan.baidu.com/s/13uHmdp81Q-CKdsDehc-gdA) 提取码: kfha
-
-- 计算机程序设计艺术 第 1 卷：基本算法（第三版）高清中文版,42.8m,链接: [https://pan.baidu.com/s/1zllu_1Kh2UlvoJ4Zc8zAMQ](https://pan.baidu.com/s/1zllu_1Kh2UlvoJ4Zc8zAMQ), 提取码: 9ejj
-
 - 软件设计师教程第 5 版,59.4m,链接: [https://pan.baidu.com/s/1xZ5GZ64i5yXOFqT9z9QYDg](https://pan.baidu.com/s/1xZ5GZ64i5yXOFqT9z9QYDg), 提取码: sj7p
-
-- 计算的本质：深入剖析程序和计算机
-
-  - 17.5m,pdf 链接: [https://pan.baidu.com/s/1-lUNvzO2v1iysYPEWEZ1oQ](https://pan.baidu.com/s/1-lUNvzO2v1iysYPEWEZ1oQ) 提取码: feet
 
 ### Shell
 
@@ -282,6 +264,8 @@
 
 - C Primer Plus
 
+- 嗨翻 C 语言 (图灵程序设计丛书)
+
 #### cpp
 
 - C++ Primer Plus
@@ -483,3 +467,15 @@
 - CSS3 实战
 
 - CSS 那些事儿
+
+### 计算机基础
+
+链接: [https://pan.baidu.com/s/1WOxh--JP5u5SKTx6cfGGhw](https://pan.baidu.com/s/1WOxh--JP5u5SKTx6cfGGhw) 提取码: km3v
+
+- 计算机科学导论.佛罗赞
+
+- 计算机科学概论(第 11 版)
+
+- 计算机程序设计艺术 第 1 卷：基本算法（第三版）高清中文版
+
+- 计算的本质：深入剖析程序和计算机
