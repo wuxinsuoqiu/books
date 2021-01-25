@@ -66,55 +66,11 @@
 
 - 数据密集型应用系统设计,297m,链接: [https://pan.baidu.com/s/1ClZNlKmdWFKY2BWNrA4vDw](https://pan.baidu.com/s/1ClZNlKmdWFKY2BWNrA4vDw), 提取码: nr4k
 
-## 前端
-
-- 深入浅出 React 和 Redux-程墨
-
-  - 93.4m,pdf 链接: [https://pan.baidu.com/s/19Qks-Z57WlOoVIOQJVyL7g](https://pan.baidu.com/s/19Qks-Z57WlOoVIOQJVyL7g) 提取码: etci
-
-- 精通 D3.js 交互式数据可视化高级编程,52.4m,链接: [https://pan.baidu.com/s/1Hu-sJQaKD8ueZPam7gcvMw](https://pan.baidu.com/s/1Hu-sJQaKD8ueZPam7gcvMw), 提取码: ut8x
-
-- 现代前端技术解析 2019
-
-  - 47.9m,链接: [https://pan.baidu.com/s/1F4mCQeczkG0Qjlhpm1nfRg](https://pan.baidu.com/s/1F4mCQeczkG0Qjlhpm1nfRg), 提取码: rtzp
-
-- 渐进增强的 Web 设计,89.3m,链接:[https://pan.baidu.com/s/1Mzz1Yq-0M4ftn362KKATHA](https://pan.baidu.com/s/1Mzz1Yq-0M4ftn362KKATHA), 密码:36ms
-
-- HTML5 移动 Web 开发指南-唐俊开,52.2m,链接:[https://pan.baidu.com/s/1yzFW7Xqwe61WdFLarmwPZA](https://pan.baidu.com/s/1yzFW7Xqwe61WdFLarmwPZA) 提取码: bigi
-
-- Git 权威指南
-
-  - 49.8m,pdf 链接: [https://pan.baidu.com/s/1VIKGu5UGuFIZZOQbCXph7A](https://pan.baidu.com/s/1VIKGu5UGuFIZZOQbCXph7A) 提取码: r45f
-
-### 可视化
-
-- WebGL 编程指南,85.2m,链接: [https://pan.baidu.com/s/1F8IYjGeouzp2NODQ4cfCXQ](https://pan.baidu.com/s/1F8IYjGeouzp2NODQ4cfCXQ), 提取码: i9nv
-
-- Three.js 开发指南-第 2 版,50.7m,链接: [https://pan.baidu.com/s/1dnsv2if_VmBLMm3Hy4uJkg](https://pan.baidu.com/s/1dnsv2if_VmBLMm3Hy4uJkg), 提取码: xgvx
-
 ### 正则表达式
 
 - 正则表达式手册,[https://tool.oschina.net/uploads/apidocs/jquery/regexp.html](https://tool.oschina.net/uploads/apidocs/jquery/regexp.html)
 
 - 精通正则表达式-第三版-美-佛瑞德,54.9m,链接: [https://pan.baidu.com/s/1VMe7DDffgYwKde7-JJXtlg](https://pan.baidu.com/s/1VMe7DDffgYwKde7-JJXtlg), 提取码: ci3d
-
-### 框架
-
-- 权威指南 Vue.js2,146.6m,链接:[https://pan.baidu.com/s/1k3AghECvotORgJ1tUOoaOQ](https://pan.baidu.com/s/1k3AghECvotORgJ1tUOoaOQ),  提取码:g0xx
-
-### 构建工具
-
-- 深入浅出 Webpack,113.2m,链接:[https://pan.baidu.com/s/1WNp9YVR-qQ39emnauVpiAg](https://pan.baidu.com/s/1WNp9YVR-qQ39emnauVpiAg),  提取码:p5ir
-
-- Web 前端自动化构建：Gulp、Bower 和 Yeoman 开发指南,107.9m,链接: [https://pan.baidu.com/s/1EmGLj85eSJ8j_fT2vtu1wA](https://pan.baidu.com/s/1EmGLj85eSJ8j_fT2vtu1wA), 提取码: fqc1
-
-### 性能优化
-
-- 构建高性能 WEB 站点,50.8m,链接: [https://pan.baidu.com/s/1oDKeXTt_jc-z4J9luiYTVw](https://pan.baidu.com/s/1oDKeXTt_jc-z4J9luiYTVw), 提取码: x1ub
-
-### 安全
-
-- Web 前端黑客技术揭秘,69.5m,链接:[https://pan.baidu.com/s/13yr6SnCDcvS94SnFcEDY8A](https://pan.baidu.com/s/13yr6SnCDcvS94SnFcEDY8A), 密码:awlt
 
 ## 数学
 
@@ -467,6 +423,38 @@
 ### 前端
 
 链接: [https://pan.baidu.com/s/1zjfLq5IT0WvN6ZxucU9azQ](https://pan.baidu.com/s/1zjfLq5IT0WvN6ZxucU9azQ) 提取码: e17s
+
+## 前端
+
+- 深入浅出 React 和 Redux-程墨
+
+- 现代前端技术解析 2019
+
+- 渐进增强的 Web 设计
+
+- Git 权威指南
+
+- 权威指南 Vue.js2
+
+- 深入浅出 Webpack
+
+- Web 前端自动化构建：Gulp、Bower 和 Yeoman 开发指南
+
+- 构建高性能 WEB 站点
+
+- Web 前端黑客技术揭秘
+
+### 可视化
+
+- 精通 D3.js 交互式数据可视化高级编程,pdf
+
+- WebGL 编程指南,pdf
+
+- Three.js 开发指南-第 2 版,pdf
+
+#### HTML
+
+- HTML5 移动 Web 开发指南-唐俊开
 
 #### CSS
 
