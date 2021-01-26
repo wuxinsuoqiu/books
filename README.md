@@ -46,18 +46,6 @@
 
   - 28.9m,pdf 链接: [https://pan.baidu.com/s/1nhsl4LQ-13CV5NJWx9a3Gg](https://pan.baidu.com/s/1nhsl4LQ-13CV5NJWx9a3Gg) 提取码: xrte
 
-### 深度学习
-
-- 深度学习 TensorFlow 实战,90.9m,链接: [https://pan.baidu.com/s/11A8vh7EfgRAW5z_jwaXurw](https://pan.baidu.com/s/11A8vh7EfgRAW5z_jwaXurw),提取码: 38fr
-
-- 深度学习-花书
-
-  - 31,5m, epub 链接: [https://pan.baidu.com/s/1z8YtvjTv0lURI3o_MkuPfA](https://pan.baidu.com/s/1z8YtvjTv0lURI3o_MkuPfA) 提取码: dyrj
-
-- Tensorflow 教程
-
-  - 96.7m,pdf 链接: [https://pan.baidu.com/s/103k4TF7imFavbXROIYzTRQ](https://pan.baidu.com/s/103k4TF7imFavbXROIYzTRQ) 提取码: 1g62
-
 ## 大数据
 
 - 数据密集型应用系统设计,297m,链接: [https://pan.baidu.com/s/1ClZNlKmdWFKY2BWNrA4vDw](https://pan.baidu.com/s/1ClZNlKmdWFKY2BWNrA4vDw), 提取码: nr4k
@@ -74,13 +62,11 @@
 
 - 数学之美-第 2 版,51.8m,链接: [https://pan.baidu.com/s/1H3w9eR9F5npqD_27v96HUQ](https://pan.baidu.com/s/1H3w9eR9F5npqD_27v96HUQ) 提取码: 9rhx
 
+- 数学沉思录：古今数学思想的发展与演变
+
 - 3D 数学基础：图形与游戏开发
 
-  - 29.3m,pdf 链接: [https://pan.baidu.com/s/1RE8yqZt2Yei2cA3mRMvZuw](https://pan.baidu.com/s/1RE8yqZt2Yei2cA3mRMvZuw) 提取码: a7eq
-
-- 数学沉思录：古今数学思想的发展与演变\_[美]李维著.黄征译
-
-  - 20.9m,pdf 链接: [https://pan.baidu.com/s/1sOq7d2zHAWynZ8oWNIsv2g](https://pan.baidu.com/s/1sOq7d2zHAWynZ8oWNIsv2g) 提取码: 4ctb
+- 具体数学 计算机科学基础(第 2 版)
 
 ### 高等数学
 
@@ -511,3 +497,11 @@
 - 实用机器学习
 
 ### 深度学习
+
+- 深度学习 TensorFlow 实战,pdf
+
+- 深度学习-花书,epub
+
+- Tensorflow 教程,pdf
+
+- Python 深度学习实战：75 个有关神经网络建模、强化学习与迁移学习的解决方案
