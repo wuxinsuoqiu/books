@@ -1,118 +1,6 @@
-每个大类下所有文件统一一个链接
+必读!!!
 
-### python
-
-- Python 高级编程第 2 版-张亮,80.6m,链接:[https://pan.baidu.com/s/1PvoyZQsezy7NkIUxRw04GQ](https://pan.baidu.com/s/1PvoyZQsezy7NkIUxRw04GQ), 密码:jhgj
-
-* Python 编程入门经典,61.9m,链接:[https://pan.baidu.com/s/1_KWbLpOVJTKCLKpNk0yqOQ](https://pan.baidu.com/s/1_KWbLpOVJTKCLKpNk0yqOQ), 密码:46g9
-
-* Python 源码剖析-深度探索动态语言核心技术-陈儒,30m,链接: [https://pan.baidu.com/s/1sph8dD3acLyujO45EYI_wQ](https://pan.baidu.com/s/1sph8dD3acLyujO45EYI_wQ) 提取码: jg7x
-
-* Head First Python-中文版,40.9m,链接: [https://pan.baidu.com/s/1M7RQSckA51Ujki5wDJivUQ](https://pan.baidu.com/s/1M7RQSckA51Ujki5wDJivUQ), 提取码: n5fm
-
-* Python3 程序开发指南-第二版,29.7m,链接: [https://pan.baidu.com/s/17q4ErlowbKbofzk59M_eFA](https://pan.baidu.com/s/17q4ErlowbKbofzk59M_eFA) 提取码: u69u
-
-* Python 高级编程-Luke Sneeringer,38.1m,链接: [https://pan.baidu.com/s/1K90X5Ry0vvZwC3IeFP5e1g](https://pan.baidu.com/s/1K90X5Ry0vvZwC3IeFP5e1g) 提取码: ggpq
-
-* Python 网络编程基础,26m,链接: [https://pan.baidu.com/s/1ZM161MKCPXjaEukR9hxZMA](https://pan.baidu.com/s/1ZM161MKCPXjaEukR9hxZMA) 提取码: cwq6
-
-* Python 自动化运维 技术与最佳实践,47.9m,链接: [https://pan.baidu.com/s/1jYuB-RhW8GAhkVaMF_iyJw](https://pan.baidu.com/s/1jYuB-RhW8GAhkVaMF_iyJw), 提取码: vyme
-
-* Python 编程金典,52.9m,链接: [https://pan.baidu.com/s/1MrjFxAib8dIv-T-lhi7fjQ](https://pan.baidu.com/s/1MrjFxAib8dIv-T-lhi7fjQ) 提取码: rkw1
-
-* Python 开发实战,100.3m,链接: [https://pan.baidu.com/s/1kwbLdWYiyuBrq1VvnHt5KA](https://pan.baidu.com/s/1kwbLdWYiyuBrq1VvnHt5KA), 提取码: zw3n
-
-* Python 爬虫开发与项目实战,105.5m,链接: [https://pan.baidu.com/s/1eKgKIs0jj2yneJzacbWTXw](https://pan.baidu.com/s/1eKgKIs0jj2yneJzacbWTXw), 提取码: pp9i
-
-* Python 编程-第 4 版-上册,链接: [https://pan.baidu.com/s/1PbaE5hnvvE8cNeBAakHhVQ](https://pan.baidu.com/s/1PbaE5hnvvE8cNeBAakHhVQ), 提取码: wjrz
-
-* Python 编程-第 4 版-下册,264m,链接: [https://pan.baidu.com/s/1bz-59vSSLVeKE1C9A3lpDA](https://pan.baidu.com/s/1bz-59vSSLVeKE1C9A3lpDA), 提取码: p6ii
-
-#### Python 数据分析
-
-- Python 数据可视化编程实战,43.5m,链接: [https://pan.baidu.com/s/1lcvtEa1pONwbIKBrWpj_nA](https://pan.baidu.com/s/1lcvtEa1pONwbIKBrWpj_nA), 提取码: 68r9
-
-- Python 金融大数据分析,50.1m,链接: [https://pan.baidu.com/s/1YyZi8e9Zlq_yqlCKtVTqFA](https://pan.baidu.com/s/1YyZi8e9Zlq_yqlCKtVTqFA), 提取码: em2r
-
-- Python 数据分析实战,55.3m,链接:[https://pan.baidu.com/s/1T_s4eCYUr7WwY7Tx2zeTWQ](https://pan.baidu.com/s/1T_s4eCYUr7WwY7Tx2zeTWQ), 密码:o027
-
-- 软件设计师教程第 5 版,59.4m,链接: [https://pan.baidu.com/s/1xZ5GZ64i5yXOFqT9z9QYDg](https://pan.baidu.com/s/1xZ5GZ64i5yXOFqT9z9QYDg), 提取码: sj7p
-
-## AI
-
-- 无人机技术概论,120.9m,链接: [https://pan.baidu.com/s/1b4WILCBuHq1mmDJfjpeUFA](https://pan.baidu.com/s/1b4WILCBuHq1mmDJfjpeUFA), 提取码: pvyc
-
-- 人工智能的未来-霍金斯
-
-  - 28.9m,pdf 链接: [https://pan.baidu.com/s/1nhsl4LQ-13CV5NJWx9a3Gg](https://pan.baidu.com/s/1nhsl4LQ-13CV5NJWx9a3Gg) 提取码: xrte
-
-## 大数据
-
-- 数据密集型应用系统设计,297m,链接: [https://pan.baidu.com/s/1ClZNlKmdWFKY2BWNrA4vDw](https://pan.baidu.com/s/1ClZNlKmdWFKY2BWNrA4vDw), 提取码: nr4k
-
-### 正则表达式
-
-- 正则表达式手册,[https://tool.oschina.net/uploads/apidocs/jquery/regexp.html](https://tool.oschina.net/uploads/apidocs/jquery/regexp.html)
-
-- 精通正则表达式-第三版-美-佛瑞德,54.9m,链接: [https://pan.baidu.com/s/1VMe7DDffgYwKde7-JJXtlg](https://pan.baidu.com/s/1VMe7DDffgYwKde7-JJXtlg), 提取码: ci3d
-
-## 数学
-
-链接: [https://pan.baidu.com/s/1k4WMEBnjRZFI_cE-cqEB7g](https://pan.baidu.com/s/1k4WMEBnjRZFI_cE-cqEB7g) 提取码: sncb
-
-- 数学之美-第 2 版,51.8m,链接: [https://pan.baidu.com/s/1H3w9eR9F5npqD_27v96HUQ](https://pan.baidu.com/s/1H3w9eR9F5npqD_27v96HUQ) 提取码: 9rhx
-
-- 数学沉思录：古今数学思想的发展与演变
-
-- 3D 数学基础：图形与游戏开发
-
-- 具体数学 计算机科学基础(第 2 版)
-
-### 高等数学
-
-- 同济大学高等数学第七版下册
-
-- 高等数学 同济第 7 版 下册 习题全解指南 课后习题答案解析
-
-- 高等数学 同济第 7 版 上册 习题全解指南 课后习题答案解析
-
-### 统计学
-
-- 统计学习基础 数据挖掘、推理与预测
-
-- 概率论与数理统计-第四版-盛骤
-
-- 概率论与数理统计习题全解指南-浙大四版-盛骤
-
-- 概率论基础教程-第 9 版
-
-### 线性代数
-
-- 线性代数及其应用
-
-- 线性代数习题全解（同济六版）
-
-## 经济学
-
-链接: [https://pan.baidu.com/s/1rzeRYIux5N2ZQSl-AmQxRA](https://pan.baidu.com/s/1rzeRYIux5N2ZQSl-AmQxRA) 提取码: 7hyn
-
-- 经济学原理第 7 版微观经济学分册
-
-- 经济学原理第 7 版宏观经济学分册
-
-- 增长的错觉
-
-- 中国奇迹的背后
-
-- 中国式创新孵化
-
-- 期货市场国际化
-
-- 非理性繁荣与金融危机
-
-- 牛奶可乐经济学,mobi
-
-- 经济学的思维方式，mobi
+按分类目录存储,分享出来的链接是整个分类目录的
 
 ## 计算机
 
@@ -192,7 +80,7 @@
 
 - C#高级编程
 
-### JavaScript
+#### JavaScript
 
 - 你不知道的 JavaScript
 
@@ -246,6 +134,38 @@
 
 - 重新定义 Spring Cloud 实战
 
+#### Python
+
+链接: [https://pan.baidu.com/s/14E8pMglMh33XJDdv_TXdNg](https://pan.baidu.com/s/14E8pMglMh33XJDdv_TXdNg) 提取码: ajmm
+
+- Python 高级编程第 2 版-张亮
+
+- Python 编程入门经典
+
+- Python 源码剖析-深度探索动态语言核心技术-陈儒
+
+- Head First Python-中文版
+
+- Python3 程序开发指南-第二版
+
+- Python 高级编程-Luke Sneeringer
+
+- Python 网络编程基础
+
+- Python 自动化运维 技术与最佳实践
+
+- Python 编程金典
+
+- Python 开发实战
+
+- Python 爬虫开发与项目实战
+
+- Python 编程-第 4 版
+
+- Python 数据分析实战
+
+- Python 数据可视化编程实战
+
 ### 编程
 
 链接: [https://pan.baidu.com/s/1GXbu48uYfV9IZX36XOHfMg](https://pan.baidu.com/s/1GXbu48uYfV9IZX36XOHfMg) 提取码: n7ef
@@ -267,6 +187,8 @@
 - 编程大师访谈录
 
 - 重构改善既有代码的设计第 2 版,epub
+
+- 数据密集型应用系统设计,pdf
 
 ### 算法
 
@@ -406,8 +328,6 @@
 
 链接: [https://pan.baidu.com/s/1zjfLq5IT0WvN6ZxucU9azQ](https://pan.baidu.com/s/1zjfLq5IT0WvN6ZxucU9azQ) 提取码: e17s
 
-## 前端
-
 - 深入浅出 React 和 Redux-程墨
 
 - 现代前端技术解析 2019
@@ -430,7 +350,9 @@
 
 - 深入 react 技术栈，mobi
 
-### 可视化
+- 精通正则表达式-第三版-美-佛瑞德,pdf
+
+#### 可视化
 
 - 精通 D3.js 交互式数据可视化高级编程,pdf
 
@@ -498,6 +420,8 @@
 
 ### 深度学习
 
+链接: [https://pan.baidu.com/s/1hUgWQcWX9guUdpDMxjQMaA](https://pan.baidu.com/s/1hUgWQcWX9guUdpDMxjQMaA) 提取码: ndii
+
 - 深度学习 TensorFlow 实战,pdf
 
 - 深度学习-花书,epub
@@ -505,3 +429,77 @@
 - Tensorflow 教程,pdf
 
 - Python 深度学习实战：75 个有关神经网络建模、强化学习与迁移学习的解决方案
+
+### AI
+
+链接: [https://pan.baidu.com/s/1snN6MM8JYJHrwRkMQ-2r1w](https://pan.baidu.com/s/1snN6MM8JYJHrwRkMQ-2r1w) 提取码: vj74
+
+- 无人机技术概论
+
+- 人工智能的未来-霍金斯
+
+- 智能信息融合与目标识别方法,pdf
+
+- 机器智能：人工情感,pdf
+
+- 无人机简史,pdf
+
+- 人工智能技术,pdf
+
+## 数学
+
+链接: [https://pan.baidu.com/s/1k4WMEBnjRZFI_cE-cqEB7g](https://pan.baidu.com/s/1k4WMEBnjRZFI_cE-cqEB7g) 提取码: sncb
+
+- 数学之美-第 2 版
+
+- 数学沉思录：古今数学思想的发展与演变
+
+- 3D 数学基础：图形与游戏开发
+
+- 具体数学 计算机科学基础(第 2 版)
+
+### 高等数学
+
+- 同济大学高等数学第七版下册
+
+- 高等数学 同济第 7 版 下册 习题全解指南 课后习题答案解析
+
+- 高等数学 同济第 7 版 上册 习题全解指南 课后习题答案解析
+
+### 统计学
+
+- 统计学习基础 数据挖掘、推理与预测
+
+- 概率论与数理统计-第四版-盛骤
+
+- 概率论与数理统计习题全解指南-浙大四版-盛骤
+
+- 概率论基础教程-第 9 版
+
+### 线性代数
+
+- 线性代数及其应用
+
+- 线性代数习题全解（同济六版）
+
+## 经济学
+
+链接: [https://pan.baidu.com/s/1rzeRYIux5N2ZQSl-AmQxRA](https://pan.baidu.com/s/1rzeRYIux5N2ZQSl-AmQxRA) 提取码: 7hyn
+
+- 经济学原理第 7 版微观经济学分册
+
+- 经济学原理第 7 版宏观经济学分册
+
+- 增长的错觉
+
+- 中国奇迹的背后
+
+- 中国式创新孵化
+
+- 期货市场国际化
+
+- 非理性繁荣与金融危机
+
+- 牛奶可乐经济学,mobi
+
+- 经济学的思维方式，mobi
