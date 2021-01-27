@@ -12,6 +12,8 @@
 
 - 5G 时代：什么是 5G，它将如何改变世界
 
+- 未来简史
+
 ### 计算机网络
 
 链接: [https://pan.baidu.com/s/14qDALOCHpzDKr_cFW69IhQ](https://pan.baidu.com/s/14qDALOCHpzDKr_cFW69IhQ) 提取码: q8pa
@@ -26,7 +28,7 @@
 
 - HTTP 权威指南,epub,pdf
 
-- 深入理解计算机网络
+- 深入理解计算机网络,mobi,epub
 
 ### 编译原理
 
@@ -34,13 +36,17 @@
 
 - 自制编程语言
 
+- 编译原理及实践,pdf
+
+- 现代编译原理,pdf
+
 ### 网络安全
 
 链接: [https://pan.baidu.com/s/1p_kZIcS9iQjJIZ6AFAX1Eg](https://pan.baidu.com/s/1p_kZIcS9iQjJIZ6AFAX1Eg) 提取码: np54
 
 - 密码编码学与网络安全 原理与实践 第 7 版-威廉·斯托林斯
 
-- 深入浅出密码学 常用加密技术原理与应用
+- 深入浅出密码学 常用加密技术原理与应用,pdf
 
 - 白帽子讲 Web 安全,epub,mobi
 
@@ -56,17 +62,23 @@
 
 - 嗨翻 C 语言 (图灵程序设计丛书)
 
+- C 程序设计语言,epub
+
+- C 和指针,epub
+
+- C Primer Plus,epub
+
 #### cpp
 
 - C++ Primer Plus
 
-- C++编程规范 101 条规则、准则最佳实践
+- C++编程规范 101 条规则、准则最佳实践,pdf
 
-- C++编程思想(第 2 版)-第 1 卷
+- C++编程思想(第 2 版)-第 1 卷,pdf
 
-- C++程序设计原理与实践
+- C++程序设计原理与实践,pdf
 
-- C++语言程序设计第四版-郑莉
+- C++语言程序设计第四版-郑莉,pdf
 
 - C++标准程序库 简体中文版
 
@@ -75,6 +87,10 @@
 - Effective C++：改善程序与设计的 55 个具体做法（中文第三版）,epub
 
 - C++ STL 中文版,pdf
+
+- C++ templates 中文版,epub
+
+- 深入理解 c11(c11 新特性解析与应用),epub
 
 #### 汇编
 
@@ -89,6 +105,8 @@
 - C#图解教程
 
 - C#高级编程
+
+- C#高级编程(第 7 版)
 
 #### JavaScript
 
@@ -120,6 +138,8 @@
 
 - 编写可维护的 JavaScript ,pdf
 
+- 数据结构与算法 Javascript 描述,epub
+
 #### Go
 
 - Go 程序设计语言
@@ -140,13 +160,19 @@
 
 - Java 核心技术 卷 2 高级特性 原书第 10 版
 
-- Java 编程的逻辑
+- Java 编程的逻辑,pdf
 
 - Spring 实战第 4 版
 
 - Spring 技术内幕：深入解析 Spring 架构与设计原理(第 2 版)
 
 - 重新定义 Spring Cloud 实战
+
+- 深入理解 Java 虚拟机：JVM 高级特性与最佳实践（第 2 版）,epub
+
+- 实战 Java 高并发程序设计,epub
+
+- 自己动手写 Java 虚拟机 (Java 核心技术系列),epub
 
 #### Python
 
@@ -160,7 +186,7 @@
 
 - Head First Python-中文版
 
-- Python3 程序开发指南-第二版
+- Python3 程序开发指南-第二版,pdf
 
 - Python 高级编程-Luke Sneeringer
 
@@ -184,6 +210,10 @@
 
 - 编程小白的第一本 Python 入门书
 
+- 编写高质量代码-改善 python 程序的 91 个建议,epub
+
+- 流畅的 Python,epub,pdf
+
 ### 编程
 
 链接: [https://pan.baidu.com/s/1GXbu48uYfV9IZX36XOHfMg](https://pan.baidu.com/s/1GXbu48uYfV9IZX36XOHfMg) 提取码: n7ef
@@ -192,7 +222,7 @@
 
 - 编程原本
 
-- 程序员的思维修炼
+- 程序员的思维修炼,epub,pdf
 
 - 编程之美
 
@@ -212,13 +242,23 @@
 
 - 编写高质量代码之 C#、C- 陆敏技-李健,mobi
 
+- 高效程序员的 45 个习惯：敏捷开发修炼之道,epub
+
+- 代码阅读方法与实践
+
+### 程序员
+
+- 程序员面试金典,epub,pdf
+
+- 松本行弘的程序世界,epub
+
 ### 算法
 
 链接: [https://pan.baidu.com/s/1NHX0YhgJ3Z712Zquq8qutw](https://pan.baidu.com/s/1NHX0YhgJ3Z712Zquq8qutw) 提取码: 9akt
 
 - 剑指 Offer
 
-- 漫画算法:小灰的算法之旅
+- 漫画算法:小灰的算法之旅,pdf,epub,mobi
 
 - 算法基础.打开算法之门
 
@@ -264,6 +304,14 @@
 
 - 这就是搜索引擎核心技术详解,epub
 
+- 黑客与画家,epub
+
+- 腾讯产品法：一本书读懂腾讯产品思维与运营方法,epub
+
+- 淘宝技术这十年,epub,pdf
+
+- 淘宝十年产品事,epub,pdf
+
 ### 数据结构
 
 链接: [https://pan.baidu.com/s/1i90KLtdNUKBkK-nf_P-ejQ](https://pan.baidu.com/s/1i90KLtdNUKBkK-nf_P-ejQ) 提取码: bm5a
@@ -278,7 +326,7 @@
 
 - 数据结构与算法 Python 语言描述裘宗燕
 
-- C++数据结构-邓俊辉
+- C++数据结构-邓俊辉,pdf
 
 - 数据结构与算法（第四版）廖明宏
 
@@ -286,13 +334,17 @@
 
 链接: [https://pan.baidu.com/s/1xG0wQnvxDgVqZBbHWiO2UQ](https://pan.baidu.com/s/1xG0wQnvxDgVqZBbHWiO2UQ) 提取码: e575
 
+#### window
+
+- 精解 windows 10,epub
+
 #### Linux
 
 - 循序渐进 Linux-第 2 版-服务器搭建系统
 
 - Linux 内核设计与实现
 
-- Linux Shell 脚本攻略-第 2 版
+- Linux Shell 脚本攻略-第 2 版,pdf
 
 - 鸟哥的 LINUX 私房菜-基础学习篇(第三版)
 
@@ -308,6 +360,8 @@
 
 - Linux shell 编程从初学到精通
 
+- Linux 程序设计,mobi
+
 #### UNIX
 
 - UNIX 环境高级编程（第三版）
@@ -322,19 +376,23 @@
 
 - 第一本 docker 书,epub
 
+- 深入浅出 docker 异步图书,epub
+
+- Docker 技术入门与实战（第 2 版） (容器技术系列),epub
+
 #### 服务器
 
 - Nginx 高性能 Web 服务器详解
 
 - 精通 Nginx
 
-- 深入理解 Nginx 模块开发与架构解析
+- 深入理解 Nginx 模块开发与架构解析,pdf
 
 #### 其他
 
 - 深入理解计算机系统
 
-- 现代操作系统（第 3 版）
+- 现代操作系统（第 3 版）,epub,pdf
 
 - 操作系统原理第 4 版
 
@@ -358,13 +416,13 @@
 
 链接: [https://pan.baidu.com/s/1zjfLq5IT0WvN6ZxucU9azQ](https://pan.baidu.com/s/1zjfLq5IT0WvN6ZxucU9azQ) 提取码: e17s
 
-- 深入浅出 React 和 Redux-程墨
+- 深入浅出 React 和 Redux-程墨,pdf
 
 - 现代前端技术解析 2019
 
 - 渐进增强的 Web 设计
 
-- Git 权威指南
+- Git 权威指南,pdf,epub
 
 - 权威指南 Vue.js2
 
@@ -382,6 +440,8 @@
 
 - 精通正则表达式-第三版-美-佛瑞德,pdf
 
+- 疯狂 HTML5+CSS3+JavaScript 讲义,mobi
+
 #### 可视化
 
 - 精通 D3.js 交互式数据可视化高级编程,pdf
@@ -393,6 +453,8 @@
 #### HTML
 
 - HTML5 移动 Web 开发指南-唐俊开
+
+- HTML5 揭秘,pdf
 
 #### CSS
 
@@ -420,7 +482,7 @@
 
 链接: [https://pan.baidu.com/s/1B7LxUdEx-7isDkhtz1y6UQ](https://pan.baidu.com/s/1B7LxUdEx-7isDkhtz1y6UQ) 提取码: jca6
 
-- 深入理解 MySQL 核心技术（中文）
+- 深入理解 MySQL 核心技术（中文）,pdf
 
 - MySQL 技术内幕：SQL 编程-姜承尧
 
@@ -428,9 +490,13 @@
 
 - SQL 基础教程-第 2 版
 
-- HBase 权威指南
+- HBase 权威指南,epub,pdf
 
 - HBase 不睡觉书
+
+- 高性能 MySQL(第 3 版)
+
+- HBase 实战,epub
 
 ### 机器学习
 
@@ -451,6 +517,8 @@
 - 白话大数据与机器学习,epub
 
 - 百面机器学习,epub
+
+- 机器学习实战基于 scikitlearn 和 tensorflow,epub
 
 ### 深度学习
 
@@ -480,6 +548,8 @@
 
 - 人工智能技术,pdf
 
+- AI·未来,epub
+
 ## 数学
 
 链接: [https://pan.baidu.com/s/1k4WMEBnjRZFI_cE-cqEB7g](https://pan.baidu.com/s/1k4WMEBnjRZFI_cE-cqEB7g) 提取码: sncb
@@ -502,7 +572,7 @@
 
 ### 统计学
 
-- 统计学习基础 数据挖掘、推理与预测
+- 统计学习基础 数据挖掘、推理与预测,pdf
 
 - 概率论与数理统计-第四版-盛骤
 
@@ -512,13 +582,17 @@
 
 - 概率导论.第 2 版,pdf,epub
 
-- 统计学习方法,mobi
+- 统计学习方法,mobi,epub
 
 ### 线性代数
 
 - 线性代数及其应用
 
 - 线性代数习题全解（同济六版）
+
+- 线性代数同济第六版,pdf
+
+- 线性代数(第五版)同济,pdf
 
 ## 经济学
 
@@ -543,3 +617,5 @@
 - 经济学的思维方式，mobi
 
 - 风口上的猪 - 一本书看懂互联网金融,epub
+
+- 产业互联网的中国路径,mobi
