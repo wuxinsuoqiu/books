@@ -68,6 +68,10 @@
 
 - C Primer Plus,epub
 
+- C 语言从入门到精通第 2 版,epub
+
+- C 入门经典第 7 版,mobi
+
 #### cpp
 
 - C++ Primer Plus
@@ -550,6 +554,18 @@
 
 - AI·未来,epub
 
+### 游戏开发
+
+- 游戏编程模式,epub
+
+- 游戏设计的 100 个原理,epub
+
+- 游戏设计的 236 个技巧,epub
+
+- 游戏设计快乐之道(第 2 版),epub
+
+- 游戏开发的数学和物理,epub
+
 ## 数学
 
 链接: [https://pan.baidu.com/s/1k4WMEBnjRZFI_cE-cqEB7g](https://pan.baidu.com/s/1k4WMEBnjRZFI_cE-cqEB7g) 提取码: sncb
@@ -619,3 +635,7 @@
 - 风口上的猪 - 一本书看懂互联网金融,epub
 
 - 产业互联网的中国路径,mobi
+
+- AI 极简经济学,epub
+
+- 解读中国经济,mobi
