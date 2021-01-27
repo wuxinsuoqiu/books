@@ -10,6 +10,8 @@
 
 - 计算进化史改变数学的命运
 
+- 5G 时代：什么是 5G，它将如何改变世界
+
 ### 计算机网络
 
 链接: [https://pan.baidu.com/s/14qDALOCHpzDKr_cFW69IhQ](https://pan.baidu.com/s/14qDALOCHpzDKr_cFW69IhQ) 提取码: q8pa
@@ -114,17 +116,21 @@
 
 - 了不起的 Node js 将 JavaScript 进行到底,pdf
 
+- JavaScript 数据结构与算法-第 2 版,pdf
+
+- 编写可维护的 JavaScript ,pdf
+
 #### Go
 
 - Go 程序设计语言
 
-- Go Web 编程
+- Go Web 编程,epub,pdf
 
 - Go 语言核心编程-李文塔
 
 - Go 并发编程实战-第 2 版
 
-- Go 语言程序设计-Mark
+- Go 语言程序设计-Mark,pdf
 
 - Go 语言程序设计-王鹏
 
@@ -174,6 +180,10 @@
 
 - Python 数据可视化编程实战
 
+- 趣学 Python 编程
+
+- 编程小白的第一本 Python 入门书
+
 ### 编程
 
 链接: [https://pan.baidu.com/s/1GXbu48uYfV9IZX36XOHfMg](https://pan.baidu.com/s/1GXbu48uYfV9IZX36XOHfMg) 提取码: n7ef
@@ -199,6 +209,8 @@
 - 数据密集型应用系统设计,pdf
 
 - 软技能-代码之外的生存指南,epub
+
+- 编写高质量代码之 C#、C- 陆敏技-李健,mobi
 
 ### 算法
 
@@ -245,6 +257,12 @@
 - 文明之光
 
 - 浪潮之巅
+
+- 计算广告,epub,pdf
+
+- 浅薄-互联网如何毒化了我们的大脑,epub
+
+- 这就是搜索引擎核心技术详解,epub
 
 ### 数据结构
 
@@ -302,6 +320,8 @@
 
 - Docker 进阶与实战-华为 Docker 实践小组,pdf,epub
 
+- 第一本 docker 书,epub
+
 #### 服务器
 
 - Nginx 高性能 Web 服务器详解
@@ -332,7 +352,7 @@
 
 - JavaScript 设计模式
 
-- 大话设计模式
+- 大话设计模式,pdf
 
 ### 前端
 
@@ -394,7 +414,7 @@
 
 - 计算机程序设计艺术 第 1 卷：基本算法（第三版）高清中文版
 
-- 计算的本质：深入剖析程序和计算机
+- 计算的本质：深入剖析程序和计算机,pdf
 
 ### 数据库
 
@@ -429,6 +449,8 @@
 - 实用机器学习
 
 - 白话大数据与机器学习,epub
+
+- 百面机器学习,epub
 
 ### 深度学习
 
@@ -488,7 +510,7 @@
 
 - 概率论基础教程-第 9 版
 
-- 概率导论.第 2 版
+- 概率导论.第 2 版,pdf,epub
 
 - 统计学习方法,mobi
 
@@ -508,7 +530,7 @@
 
 - 增长的错觉
 
-- 中国奇迹的背后
+- 中国奇迹背后：改革的逻辑与学理
 
 - 中国式创新孵化
 
