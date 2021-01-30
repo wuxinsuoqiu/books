@@ -120,7 +120,7 @@
 
 - JavaScript 高级程序设计
 
-- JavaScript 语言精粹
+- JavaScript 语言精粹,mobi,pdf
 
 - JavaScript 函数式编程
 
@@ -136,6 +136,8 @@
 
 - Node.js 开发指南,epub
 
+- Node.js 实战,mobi
+
 - 了不起的 Node js 将 JavaScript 进行到底,pdf
 
 - JavaScript 数据结构与算法-第 2 版,pdf
@@ -143,6 +145,14 @@
 - 编写可维护的 JavaScript ,pdf
 
 - 数据结构与算法 Javascript 描述,epub
+
+- JavaScript 忍者秘籍（第 2 版）,mobi
+
+- 学习 JavaScript 数据结构与算法,mobi
+
+- 深入理解 JavaScript,epub
+
+- 超实用的 JavaScript 代码段，mobi
 
 #### Go
 
@@ -292,6 +302,10 @@
 
 - 改变未来的九大算法,epub,mobi
 
+- 程序员的算法趣题，mobi
+
+- 程序员代码面试指南\_IT 名企算法与数据结构题目最优解，mobi
+
 ### 互联网
 
 链接: [https://pan.baidu.com/s/1tnNZgywlaRu-h74QFQfgWg](https://pan.baidu.com/s/1tnNZgywlaRu-h74QFQfgWg) 提取码: f7ni
@@ -315,6 +329,14 @@
 - 淘宝技术这十年,epub,pdf
 
 - 淘宝十年产品事,epub,pdf
+
+- 电商产品经理宝典：电商后台系统产品逻辑全解析，mobi
+
+- IoT 变现：5G 时代物联网新赛道上如何弯道超车，mobi
+
+- 人人都该懂的互联网思维，mobi
+
+- 用户的本质，mobi
 
 ### 数据结构
 
@@ -424,6 +446,8 @@
 
 - 现代前端技术解析 2019
 
+- 现代前端技术解析 (前端知识体系与架构思维解析)，mobi
+
 - 渐进增强的 Web 设计
 
 - Git 权威指南,pdf,epub
@@ -446,6 +470,10 @@
 
 - 疯狂 HTML5+CSS3+JavaScript 讲义,mobi
 
+- Web 前端开发最佳实践，mobi
+
+- 全栈应用开发：精益实践,mobi
+
 #### 可视化
 
 - 精通 D3.js 交互式数据可视化高级编程,pdf
@@ -460,15 +488,25 @@
 
 - HTML5 揭秘,pdf
 
+- HTML 5 与 CSS 3 权威指南（第 3 版）,mobi
+
 #### CSS
 
-- CSS 世界-张鑫旭
+- CSS 世界-张鑫旭,mobi,pdf,epub
 
 - CSS 权威指南-第三版
 
 - CSS3 实战
 
 - CSS 那些事儿
+
+- CSS 揭秘,mobi
+
+#### 安全
+
+- Web 安全开发指南，mobi
+
+- Web 前端黑客技术揭秘,pdf
 
 ### 计算机基础
 
@@ -614,9 +652,11 @@
 
 链接: [https://pan.baidu.com/s/1rzeRYIux5N2ZQSl-AmQxRA](https://pan.baidu.com/s/1rzeRYIux5N2ZQSl-AmQxRA) 提取码: 7hyn
 
-- 经济学原理第 7 版微观经济学分册
+- 经济学原理第 7 版微观经济学分册,pdf,mobi
 
 - 经济学原理第 7 版宏观经济学分册
+
+- 经济学原理(第 5 版)\_宏观经济学分册,mobi
 
 - 增长的错觉
 
@@ -639,3 +679,9 @@
 - AI 极简经济学,epub
 
 - 解读中国经济,mobi
+
+- 国富论，mobi,epub
+
+- 自由与繁荣的国度,mobi
+
+- 图解经济学原理,mobi
