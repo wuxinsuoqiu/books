@@ -430,17 +430,15 @@
 
 ### 设计模式
 
-链接: [https://pan.baidu.com/s/1_f83uOkf3T9ux-3it7p1vQ](https://pan.baidu.com/s/1_f83uOkf3T9ux-3it7p1vQ) 提取码: mnma
+- 图解设计模式,链接: https://pan.baidu.com/s/14FmZ8aT1T7-eH165l1nqBg 提取码: nqpv
 
-- 图解设计模式
+- HeadFirst 设计模式,链接: https://pan.baidu.com/s/13SwIrWi48wkwD8cfjxrJ-g 提取码: d1jb
 
-- HeadFirst 设计模式
+- 精通 Python 设计模式,链接: https://pan.baidu.com/s/1dAy1oXIwFwCZnM_H5amfNg 提取码: dkrm
 
-- 精通 Python 设计模式
+- JavaScript 设计模式,链接: https://pan.baidu.com/s/1tzswZxD3wF3CUsIOF3DawA 提取码: jac5
 
-- JavaScript 设计模式
-
-- 大话设计模式,pdf
+- 大话设计模式,pdf,链接: https://pan.baidu.com/s/1vK8huqWE2xuAabb00tA4Jg 提取码: 42nr
 
 ### 前端
 
@@ -568,33 +566,29 @@
 
 ### 深度学习
 
-链接: [https://pan.baidu.com/s/1hUgWQcWX9guUdpDMxjQMaA](https://pan.baidu.com/s/1hUgWQcWX9guUdpDMxjQMaA) 提取码: ndii
+- 深度学习 TensorFlow 实战,pdf,链接: https://pan.baidu.com/s/1DLLNcOR65qy97oDdSIuOzQ 提取码: i34i
 
-- 深度学习 TensorFlow 实战,pdf
+- 深度学习-花书,epub,链接: https://pan.baidu.com/s/10vwBo_ceowDWJ7ClAsXvgg 提取码: sshr
 
-- 深度学习-花书,epub
+- Tensorflow 教程,pdf,链接: https://pan.baidu.com/s/10uQaXta4NKNtZ3j86xzxTQ 提取码: gsv3
 
-- Tensorflow 教程,pdf
-
-- Python 深度学习实战：75 个有关神经网络建模、强化学习与迁移学习的解决方案
+- Python 深度学习实战：75 个有关神经网络建模、强化学习与迁移学习的解决方案,链接: https://pan.baidu.com/s/1CieDtKrQArtkD-L921OAjw 提取码: z9jx
 
 ### AI
 
-链接: [https://pan.baidu.com/s/1snN6MM8JYJHrwRkMQ-2r1w](https://pan.baidu.com/s/1snN6MM8JYJHrwRkMQ-2r1w) 提取码: vj74
+- 无人机技术概论,链接: https://pan.baidu.com/s/12Fb3nlG7MRW1KcgaLLIZNg 提取码: uyxr 复制这段内容后打开百度网盘手机 App，操作更方便哦
 
-- 无人机技术概论
+- 人工智能的未来-霍金斯,链接: https://pan.baidu.com/s/1bFI86hlp-eYWTY1EpYkZwg 提取码: 8zss 复制这段内容后打开百度网盘手机 App，操作更方便哦
 
-- 人工智能的未来-霍金斯
+- 智能信息融合与目标识别方法,pdf, 链接: https://pan.baidu.com/s/1a09YUkiKKFcJcUbHbo4X7A 提取码: rqvn 复制这段内容后打开百度网盘手机 App，操作更方便哦
 
-- 智能信息融合与目标识别方法,pdf
+- 机器智能：人工情感,pdf,链接: https://pan.baidu.com/s/1JyUMXrJFDRUdd1kaHj-hGw 提取码: fbj9 复制这段内容后打开百度网盘手机 App，操作更方便哦
 
-- 机器智能：人工情感,pdf
+- 无人机简史,pdf,链接: https://pan.baidu.com/s/1ggnbRhZT6jWddV9fQkg0Sg 提取码: 2kmg 复制这段内容后打开百度网盘手机 App，操作更方便哦
 
-- 无人机简史,pdf
+- 人工智能技术,pdf,链接: https://pan.baidu.com/s/1t4gjxfor-3vgEm-XwIAfKQ 提取码: keiy 复制这段内容后打开百度网盘手机 App，操作更方便哦
 
-- 人工智能技术,pdf
-
-- AI·未来,epub
+- AI·未来,epub,链接: https://pan.baidu.com/s/19XFg97Eg9t98JnHqX0XvAg 提取码: qj4b 复制这段内容后打开百度网盘手机 App，操作更方便哦
 
 ### 游戏开发
 
@@ -610,47 +604,43 @@
 
 ## 数学
 
-链接: [https://pan.baidu.com/s/1k4WMEBnjRZFI_cE-cqEB7g](https://pan.baidu.com/s/1k4WMEBnjRZFI_cE-cqEB7g) 提取码: sncb
+- 数学之美-第 2 版,pdf,epub,链接: https://pan.baidu.com/s/1I8eDNKrn30KiTOIMhiN_qQ 提取码: 93qx 复制这段内容后打开百度网盘手机 App，操作更方便哦
 
-- 数学之美-第 2 版,pdf,epub
+- 数学沉思录：古今数学思想的发展与演变,链接: https://pan.baidu.com/s/1PNix8ZbOIIyNrrUv7hY50Q 提取码: ibmb 复制这段内容后打开百度网盘手机 App，操作更方便哦
 
-- 数学沉思录：古今数学思想的发展与演变
+- 3D 数学基础：图形与游戏开发,链接: https://pan.baidu.com/s/1aSL6u6E30dvd-xIJ-cSCjQ 提取码: 5zv4 复制这段内容后打开百度网盘手机 App，操作更方便哦
 
-- 3D 数学基础：图形与游戏开发
-
-- 具体数学 计算机科学基础(第 2 版)
+- 具体数学 计算机科学基础(第 2 版),链接: https://pan.baidu.com/s/1X6wcCRsolgudzWfP9RPihw 提取码: 2kgf 复制这段内容后打开百度网盘手机 App，操作更方便哦
 
 ### 高等数学
 
-- 同济大学高等数学第七版下册
+- 同济大学高等数学第七版下册,链接: https://pan.baidu.com/s/1tPnqFRKOPKIZWqQk-RgfEA 提取码: 8g5a 复制这段内容后打开百度网盘手机 App，操作更方便哦
 
-- 高等数学 同济第 7 版 下册 习题全解指南 课后习题答案解析
+- 高等数学 同济第 7 版 下册 习题全解指南 课后习题答案解析,链接: https://pan.baidu.com/s/1p_zPm_uktaQ4jEZHzz92qw 提取码: 15sr 复制这段内容后打开百度网盘手机 App，操作更方便哦
 
-- 高等数学 同济第 7 版 上册 习题全解指南 课后习题答案解析
+- 高等数学 同济第 7 版 上册 习题全解指南 课后习题答案解析,链接: https://pan.baidu.com/s/1NeTLAXm-kRGKxYWI89ZjQw 提取码: vbxj 复制这段内容后打开百度网盘手机 App，操作更方便哦
 
 ### 统计学
 
-- 统计学习基础 数据挖掘、推理与预测,pdf
+- 统计学习基础 数据挖掘、推理与预测,pdf,链接: https://pan.baidu.com/s/1Klp_j8BXd27m16EwP4Ju2w 提取码: 9g96 复制这段内容后打开百度网盘手机 App，操作更方便哦
 
-- 概率论与数理统计-第四版-盛骤
+- 概率论与数理统计-第四版-盛骤+习题全解指南,链接: https://pan.baidu.com/s/1PzExa2fQfvrdcuMrMCSUNw 提取码: z7e9 复制这段内容后打开百度网盘手机 App，操作更方便哦
 
-- 概率论与数理统计习题全解指南-浙大四版-盛骤
+- 概率论基础教程-第 9 版,链接: https://pan.baidu.com/s/1A3wrKm-Calj2mJexzPxDOw 提取码: bfy4 复制这段内容后打开百度网盘手机 App，操作更方便哦
 
-- 概率论基础教程-第 9 版
+- 概率导论.第 2 版,pdf,epub,链接: https://pan.baidu.com/s/1-D3wq1N8V_VD9wQ_6_q6PQ 提取码: 484m 复制这段内容后打开百度网盘手机 App，操作更方便哦
 
-- 概率导论.第 2 版,pdf,epub
-
-- 统计学习方法,mobi,epub
+- 统计学习方法,mobi,epub,链接: https://pan.baidu.com/s/1gf4ypRavALsSNkYOYsE_BQ 提取码: ktwx 复制这段内容后打开百度网盘手机 App，操作更方便哦
 
 ### 线性代数
 
-- 线性代数及其应用
+- 线性代数及其应用,链接: https://pan.baidu.com/s/1ugNIhqP7SCxuCawTkMtysA 提取码: x5ry 复制这段内容后打开百度网盘手机 App，操作更方便哦
 
-- 线性代数习题全解（同济六版）
+- 线性代数习题全解（同济六版）,链接: https://pan.baidu.com/s/1gkStUtmtXqYTmiWUJmEu7Q 提取码: mgzb 复制这段内容后打开百度网盘手机 App，操作更方便哦
 
-- 线性代数同济第六版,pdf
+- 线性代数同济第六版,pdf,链接: https://pan.baidu.com/s/12Ms49RF9sh6K4jlC6JCOsw 提取码: g7jt 复制这段内容后打开百度网盘手机 App，操作更方便哦
 
-- 线性代数(第五版)同济,pdf
+- 线性代数(第五版)同济,pdf,链接: https://pan.baidu.com/s/18QERE2X1XfuDomCMBBl8Yg 提取码: wpfr 复制这段内容后打开百度网盘手机 App，操作更方便哦
 
 ## 经济学
 
