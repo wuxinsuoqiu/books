@@ -54,7 +54,7 @@
 
 ### 编程语言
 
-链接: [https://pan.baidu.com/s/12eUfNtk3pvayGd3HyGO0Rg](https://pan.baidu.com/s/12eUfNtk3pvayGd3HyGO0Rg) 提取码: mqj4
+链接: [https://pan.baidu.com/s/1shXEVHLFQPf0g-Wvzm4-Ug](https://pan.baidu.com/s/1shXEVHLFQPf0g-Wvzm4-Ug) 提取码: 8fsr
 
 #### C
 
@@ -114,6 +114,8 @@
 
 #### JavaScript
 
+链接: [https://pan.baidu.com/s/1pqxy2rseCBAHvbBgGMrmcQ](https://pan.baidu.com/s/1pqxy2rseCBAHvbBgGMrmcQ) 提取码: 99rw
+
 - 你不知道的 JavaScript
 
 - JavaScript 权威指南(第六版)
@@ -169,6 +171,8 @@
 - Go 语言程序设计-王鹏
 
 #### Java
+
+链接: [https://pan.baidu.com/s/1eVd3Igw7Yz1IdgkEGedxkw](https://pan.baidu.com/s/1eVd3Igw7Yz1IdgkEGedxkw) 提取码: 8da4
 
 - Java 核心技术卷 1 基础知识原书第 10 版
 
