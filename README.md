@@ -8,13 +8,11 @@
 
 ### 科普
 
-链接: [https://pan.baidu.com/s/1LQCKGo6Ljo3VOU1WSz8tDg](https://pan.baidu.com/s/1LQCKGo6Ljo3VOU1WSz8tDg) 提取码: 2pbs
+- 计算进化史改变数学的命运,链接: https://pan.baidu.com/s/12oQCpZXXp9RjKHuz6pJHLA 提取码: 6dsi 复制这段内容后打开百度网盘手机 App，操作更方便哦
 
-- 计算进化史改变数学的命运
+- 5G 时代：什么是 5G，它将如何改变世界,链接: https://pan.baidu.com/s/15HV2NRbyOADXC3lMu5f7Jw 提取码: 1ugc 复制这段内容后打开百度网盘手机 App，操作更方便哦
 
-- 5G 时代：什么是 5G，它将如何改变世界
-
-- 未来简史
+- 未来简史,链接: https://pan.baidu.com/s/1ZOt4v6_g8ORn9jSe3Fjh6w 提取码: mtjm 复制这段内容后打开百度网盘手机 App，操作更方便哦
 
 ### 计算机网络
 
