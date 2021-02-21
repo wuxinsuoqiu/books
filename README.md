@@ -272,6 +272,8 @@
 
 - 松本行弘的程序世界,epub
 
+- 码农翻身\_用故事给技术加点料,mobi
+
 ### 算法
 
 链接: [https://pan.baidu.com/s/1NHX0YhgJ3Z712Zquq8qutw](https://pan.baidu.com/s/1NHX0YhgJ3Z712Zquq8qutw) 提取码: 9akt
@@ -343,6 +345,8 @@
 - 人人都该懂的互联网思维，mobi
 
 - 用户的本质，mobi
+
+- 图解物联网,mobi
 
 ### 数据结构
 
@@ -652,11 +656,11 @@
 
 链接: [https://pan.baidu.com/s/1rzeRYIux5N2ZQSl-AmQxRA](https://pan.baidu.com/s/1rzeRYIux5N2ZQSl-AmQxRA) 提取码: 7hyn
 
-- 经济学原理第 7 版微观经济学分册,pdf,mobi
+- 经济学原理\_微观经济学分册,pdf,mobi
 
-- 经济学原理第 7 版宏观经济学分册
+- 经济学原理\_宏观经济学分册,mobi
 
-- 经济学原理(第 5 版)\_宏观经济学分册,mobi
+- 经济学原理,epub
 
 - 增长的错觉
 
