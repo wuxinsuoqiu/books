@@ -1,8 +1,10 @@
 ## 必读!!!
 
-## 按分类目录存储,分享出来的链接是整个分类目录的,每本书往上的第一个链接就是
+1. 按分类目录存储,分享出来的链接是整个分类目录的,每本书往上的第一个链接就是
 
-## 链接失效了请发 issue
+2. 链接失效了请发 issue
+
+3. 关于格式问题，pdf 适合电脑上阅读，epub 手机端导入阅读，mobi 是 kindle 中使用的格式，其中 epub，mobi 相互转换比较便捷, 推荐一个转换工具的网站,https://onlineconvertfree.com/zh/
 
 ## 计算机
 
@@ -391,6 +393,10 @@
 - Linux shell 编程从初学到精通
 
 - Linux 程序设计,mobi
+
+- Linux Shell 命令行及脚本编程实例详解,mobi
+
+- Linux 命令行与 shell 脚本编程大全（第 3 版）,mobi,epub
 
 #### UNIX
 
