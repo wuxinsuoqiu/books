@@ -2,6 +2,8 @@
 
 ## 按分类目录存储,分享出来的链接是整个分类目录的,每本书往上的第一个链接就是
 
+## 链接失效了请发 issue
+
 ## 计算机
 
 ### 科普
@@ -172,25 +174,25 @@
 
 #### Java
 
-链接: [https://pan.baidu.com/s/1eVd3Igw7Yz1IdgkEGedxkw](https://pan.baidu.com/s/1eVd3Igw7Yz1IdgkEGedxkw) 提取码: 8da4
+- Java 核心技术卷 1 基础知识原书第 10 版,链接: https://pan.baidu.com/s/1EuL_UnR-2KGvtEOQ1r4UXQ 提取码: wi69
 
-- Java 核心技术卷 1 基础知识原书第 10 版
+- Java 核心技术 卷 2 高级特性 原书第 10 版,链接: https://pan.baidu.com/s/1CbnQbbHcR-NgK6VovisCEw 提取码: q7ib
 
-- Java 核心技术 卷 2 高级特性 原书第 10 版
+- Java 编程的逻辑,pdf,链接: https://pan.baidu.com/s/1GfUV4SRQjt3o_hl0BAC4TA 提取码: vaua
 
-- Java 编程的逻辑,pdf
+- Spring 实战第 4 版,链接: https://pan.baidu.com/s/1AfD9TUqJ3dUlSpkZs8RsFg 提取码: n9ug
 
-- Spring 实战第 4 版
+- Spring 技术内幕：深入解析 Spring 架构与设计原理(第 2 版),链接: https://pan.baidu.com/s/12hVHItoYp4DmURNG1r6kAg 提取码: xft5
 
-- Spring 技术内幕：深入解析 Spring 架构与设计原理(第 2 版)
+- 重新定义 Spring Cloud 实战,链接: https://pan.baidu.com/s/1ZzsAgMUha5mdRj8yw2xB5A 提取码: hqpr
 
-- 重新定义 Spring Cloud 实战
+- 深入理解 Java 虚拟机：JVM 高级特性与最佳实践（第 2 版）,epub,链接: https://pan.baidu.com/s/1f6fvIF8XQu2IAzT8E5EBlQ 提取码: t1w8
 
-- 深入理解 Java 虚拟机：JVM 高级特性与最佳实践（第 2 版）,epub
+- 实战 Java 高并发程序设计,epub,链接: https://pan.baidu.com/s/1MrT4Mx09hC2K6aWsqSjdoQ 提取码: xph9
 
-- 实战 Java 高并发程序设计,epub
+- 自己动手写 Java 虚拟机 (Java 核心技术系列),epub,链接: https://pan.baidu.com/s/1Qzj5Aph169Sag3lxwfe0EA 提取码: vvfp
 
-- 自己动手写 Java 虚拟机 (Java 核心技术系列),epub
+- Head First Java(第 2 版),pdf,链接: https://pan.baidu.com/s/1ewCL9_MJPi5Mrdj-Nuai4w 提取码: v7xi
 
 #### Python
 
