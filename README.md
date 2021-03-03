@@ -1,20 +1,24 @@
 ## 必读!!!
 
-## 按分类目录存储,分享出来的链接是整个分类目录的,每本书往上的第一个链接就是
+1. 按分类目录存储,分享出来的链接是整个分类目录的,每本书往上的第一个链接就是
+
+2. 链接失效了请发 issue
+
+3. 关于格式问题，pdf 适合电脑上阅读，epub 手机端导入阅读，mobi 是 kindle 中使用的格式，其中 epub，mobi 相互转换比较便捷, 推荐一个转换工具的网站,https://onlineconvertfree.com/zh/
 
 ## 计算机
 
 ### 科普
 
-- 计算进化史改变数学的命运,链接: https://pan.baidu.com/s/12oQCpZXXp9RjKHuz6pJHLA 提取码: 6dsi 复制这段内容后打开百度网盘手机 App，操作更方便哦
+- 计算进化史改变数学的命运,链接: https://pan.baidu.com/s/12oQCpZXXp9RjKHuz6pJHLA 提取码: 6dsi
 
-- 5G 时代：什么是 5G，它将如何改变世界,链接: https://pan.baidu.com/s/15HV2NRbyOADXC3lMu5f7Jw 提取码: 1ugc 复制这段内容后打开百度网盘手机 App，操作更方便哦
+- 5G 时代：什么是 5G，它将如何改变世界,链接: https://pan.baidu.com/s/15HV2NRbyOADXC3lMu5f7Jw 提取码: 1ugc
 
-- 未来简史,链接: https://pan.baidu.com/s/1ZOt4v6_g8ORn9jSe3Fjh6w 提取码: mtjm 复制这段内容后打开百度网盘手机 App，操作更方便哦
+- 未来简史,链接: https://pan.baidu.com/s/1ZOt4v6_g8ORn9jSe3Fjh6w 提取码: mtjm
 
 ### 计算机网络
 
-链接: [https://pan.baidu.com/s/14qDALOCHpzDKr_cFW69IhQ](https://pan.baidu.com/s/14qDALOCHpzDKr_cFW69IhQ) 提取码: q8pa
+链接: https://pan.baidu.com/s/14qDALOCHpzDKr_cFW69IhQ 提取码: q8pa
 
 - TCP-IP 详解(卷一、二、三)
 
@@ -30,7 +34,7 @@
 
 ### 编译原理
 
-链接: [https://pan.baidu.com/s/1pYDZ55OjBo-qkttagmBwRg](https://pan.baidu.com/s/1pYDZ55OjBo-qkttagmBwRg) 提取码: uydj
+链接: https://pan.baidu.com/s/1pYDZ55OjBo-qkttagmBwRg 提取码: uydj
 
 - 自制编程语言
 
@@ -40,7 +44,7 @@
 
 ### 网络安全
 
-链接: [https://pan.baidu.com/s/1p_kZIcS9iQjJIZ6AFAX1Eg](https://pan.baidu.com/s/1p_kZIcS9iQjJIZ6AFAX1Eg) 提取码: np54
+链接: https://pan.baidu.com/s/1p_kZIcS9iQjJIZ6AFAX1Eg 提取码: np54
 
 - 密码编码学与网络安全 原理与实践 第 7 版-威廉·斯托林斯
 
@@ -52,7 +56,7 @@
 
 ### 编程语言
 
-链接: [https://pan.baidu.com/s/1shXEVHLFQPf0g-Wvzm4-Ug](https://pan.baidu.com/s/1shXEVHLFQPf0g-Wvzm4-Ug) 提取码: 8fsr
+链接: https://pan.baidu.com/s/1shXEVHLFQPf0g-Wvzm4-Ug 提取码: 8fsr
 
 #### C
 
@@ -112,7 +116,7 @@
 
 #### JavaScript
 
-链接: [https://pan.baidu.com/s/1pqxy2rseCBAHvbBgGMrmcQ](https://pan.baidu.com/s/1pqxy2rseCBAHvbBgGMrmcQ) 提取码: 99rw
+链接: https://pan.baidu.com/s/1pqxy2rseCBAHvbBgGMrmcQ 提取码: 99rw
 
 - 你不知道的 JavaScript
 
@@ -170,29 +174,29 @@
 
 #### Java
 
-链接: [https://pan.baidu.com/s/1eVd3Igw7Yz1IdgkEGedxkw](https://pan.baidu.com/s/1eVd3Igw7Yz1IdgkEGedxkw) 提取码: 8da4
+- Java 核心技术卷 1 基础知识原书第 10 版,链接: https://pan.baidu.com/s/1EuL_UnR-2KGvtEOQ1r4UXQ 提取码: wi69
 
-- Java 核心技术卷 1 基础知识原书第 10 版
+- Java 核心技术 卷 2 高级特性 原书第 10 版,链接: https://pan.baidu.com/s/1CbnQbbHcR-NgK6VovisCEw 提取码: q7ib
 
-- Java 核心技术 卷 2 高级特性 原书第 10 版
+- Java 编程的逻辑,pdf,链接: https://pan.baidu.com/s/1GfUV4SRQjt3o_hl0BAC4TA 提取码: vaua
 
-- Java 编程的逻辑,pdf
+- Spring 实战第 4 版,链接: https://pan.baidu.com/s/1AfD9TUqJ3dUlSpkZs8RsFg 提取码: n9ug
 
-- Spring 实战第 4 版
+- Spring 技术内幕：深入解析 Spring 架构与设计原理(第 2 版),链接: https://pan.baidu.com/s/12hVHItoYp4DmURNG1r6kAg 提取码: xft5
 
-- Spring 技术内幕：深入解析 Spring 架构与设计原理(第 2 版)
+- 重新定义 Spring Cloud 实战,链接: https://pan.baidu.com/s/1ZzsAgMUha5mdRj8yw2xB5A 提取码: hqpr
 
-- 重新定义 Spring Cloud 实战
+- 深入理解 Java 虚拟机：JVM 高级特性与最佳实践（第 2 版）,epub,链接: https://pan.baidu.com/s/1f6fvIF8XQu2IAzT8E5EBlQ 提取码: t1w8
 
-- 深入理解 Java 虚拟机：JVM 高级特性与最佳实践（第 2 版）,epub
+- 实战 Java 高并发程序设计,epub,链接: https://pan.baidu.com/s/1MrT4Mx09hC2K6aWsqSjdoQ 提取码: xph9
 
-- 实战 Java 高并发程序设计,epub
+- 自己动手写 Java 虚拟机 (Java 核心技术系列),epub,链接: https://pan.baidu.com/s/1Qzj5Aph169Sag3lxwfe0EA 提取码: vvfp
 
-- 自己动手写 Java 虚拟机 (Java 核心技术系列),epub
+- Head First Java(第 2 版),pdf,链接: https://pan.baidu.com/s/1ewCL9_MJPi5Mrdj-Nuai4w 提取码: v7xi
 
 #### Python
 
-链接: [https://pan.baidu.com/s/14E8pMglMh33XJDdv_TXdNg](https://pan.baidu.com/s/14E8pMglMh33XJDdv_TXdNg) 提取码: ajmm
+链接: https://pan.baidu.com/s/14E8pMglMh33XJDdv_TXdNg 提取码: ajmm
 
 - Python 高级编程第 2 版-张亮
 
@@ -232,7 +236,7 @@
 
 ### 编程
 
-链接: [https://pan.baidu.com/s/1GXbu48uYfV9IZX36XOHfMg](https://pan.baidu.com/s/1GXbu48uYfV9IZX36XOHfMg) 提取码: n7ef
+链接: https://pan.baidu.com/s/1GXbu48uYfV9IZX36XOHfMg 提取码: n7ef
 
 - 架构整洁之道
 
@@ -264,13 +268,17 @@
 
 ### 程序员
 
+链接: https://pan.baidu.com/s/1qNLok0fI7t8pPC42gpFXDg 提取码: 8h69
+
 - 程序员面试金典,epub,pdf
 
 - 松本行弘的程序世界,epub
 
+- 码农翻身\_用故事给技术加点料,mobi
+
 ### 算法
 
-链接: [https://pan.baidu.com/s/1NHX0YhgJ3Z712Zquq8qutw](https://pan.baidu.com/s/1NHX0YhgJ3Z712Zquq8qutw) 提取码: 9akt
+链接: https://pan.baidu.com/s/1NHX0YhgJ3Z712Zquq8qutw 提取码: 9akt
 
 - 剑指 Offer
 
@@ -310,7 +318,7 @@
 
 ### 互联网
 
-链接: [https://pan.baidu.com/s/1tnNZgywlaRu-h74QFQfgWg](https://pan.baidu.com/s/1tnNZgywlaRu-h74QFQfgWg) 提取码: f7ni
+链接: https://pan.baidu.com/s/1tnNZgywlaRu-h74QFQfgWg 提取码: f7ni
 
 - 看见未来：改变互联网世界的人们(余晨)
 
@@ -340,9 +348,11 @@
 
 - 用户的本质，mobi
 
+- 图解物联网,mobi
+
 ### 数据结构
 
-链接: [https://pan.baidu.com/s/1i90KLtdNUKBkK-nf_P-ejQ](https://pan.baidu.com/s/1i90KLtdNUKBkK-nf_P-ejQ) 提取码: bm5a
+链接: https://pan.baidu.com/s/1i90KLtdNUKBkK-nf_P-ejQ 提取码: bm5a
 
 - 数据结构(C 语言版).严蔚敏吴伟民
 
@@ -360,7 +370,7 @@
 
 ### 操作系统
 
-链接: [https://pan.baidu.com/s/1xG0wQnvxDgVqZBbHWiO2UQ](https://pan.baidu.com/s/1xG0wQnvxDgVqZBbHWiO2UQ) 提取码: e575
+链接: https://pan.baidu.com/s/1xG0wQnvxDgVqZBbHWiO2UQ 提取码: e575
 
 #### window
 
@@ -389,6 +399,10 @@
 - Linux shell 编程从初学到精通
 
 - Linux 程序设计,mobi
+
+- Linux Shell 命令行及脚本编程实例详解,mobi
+
+- Linux 命令行与 shell 脚本编程大全（第 3 版）,mobi,epub
 
 #### UNIX
 
@@ -440,7 +454,7 @@
 
 ### 前端
 
-链接: [https://pan.baidu.com/s/1zjfLq5IT0WvN6ZxucU9azQ](https://pan.baidu.com/s/1zjfLq5IT0WvN6ZxucU9azQ) 提取码: e17s
+链接: https://pan.baidu.com/s/1zjfLq5IT0WvN6ZxucU9azQ 提取码: e17s
 
 - 深入浅出 React 和 Redux-程墨,pdf
 
@@ -510,7 +524,7 @@
 
 ### 计算机基础
 
-链接: [https://pan.baidu.com/s/1WOxh--JP5u5SKTx6cfGGhw](https://pan.baidu.com/s/1WOxh--JP5u5SKTx6cfGGhw) 提取码: km3v
+链接: https://pan.baidu.com/s/1WOxh--JP5u5SKTx6cfGGhw 提取码: km3v
 
 - 计算机科学导论.佛罗赞
 
@@ -522,7 +536,7 @@
 
 ### 数据库
 
-链接: [https://pan.baidu.com/s/1B7LxUdEx-7isDkhtz1y6UQ](https://pan.baidu.com/s/1B7LxUdEx-7isDkhtz1y6UQ) 提取码: jca6
+链接: https://pan.baidu.com/s/1B7LxUdEx-7isDkhtz1y6UQ 提取码: jca6
 
 - 深入理解 MySQL 核心技术（中文）,pdf
 
@@ -542,7 +556,7 @@
 
 ### 机器学习
 
-链接: [https://pan.baidu.com/s/1gPjtFTvFso7Em2ex52r1DA](https://pan.baidu.com/s/1gPjtFTvFso7Em2ex52r1DA) 提取码: p7nt
+链接: https://pan.baidu.com/s/1gPjtFTvFso7Em2ex52r1DA 提取码: p7nt
 
 - 机器学习实战
 
@@ -644,13 +658,13 @@
 
 ## 经济学
 
-链接: [https://pan.baidu.com/s/1rzeRYIux5N2ZQSl-AmQxRA](https://pan.baidu.com/s/1rzeRYIux5N2ZQSl-AmQxRA) 提取码: 7hyn
+链接: https://pan.baidu.com/s/1rzeRYIux5N2ZQSl-AmQxRA 提取码: 7hyn
 
-- 经济学原理第 7 版微观经济学分册,pdf,mobi
+- 经济学原理\_微观经济学分册,pdf,mobi
 
-- 经济学原理第 7 版宏观经济学分册
+- 经济学原理\_宏观经济学分册,mobi
 
-- 经济学原理(第 5 版)\_宏观经济学分册,mobi
+- 经济学原理,epub
 
 - 增长的错觉
 
