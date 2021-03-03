@@ -432,7 +432,7 @@
 
 - HeadFirst 设计模式,链接: https://pan.baidu.com/s/13SwIrWi48wkwD8cfjxrJ-g 提取码: d1jb
 
-- 精通 Python 设计模式,链接: https://pan.baidu.com/s/1dAy1oXIwFwCZnM_H5amfNg 提取码: dkrm
+- 精通 Python 设计模式,链接: https://pan.baidu.com/s/1LHsjqAd1m_IXA2_GFZoC-A 提取码: sxmx
 
 - JavaScript 设计模式,链接: https://pan.baidu.com/s/1tzswZxD3wF3CUsIOF3DawA 提取码: jac5
 
@@ -564,13 +564,15 @@
 
 ### 深度学习
 
+链接: https://pan.baidu.com/s/16eZ6DEX4VjAkpNMCVr1Tnw 提取码: s3ec
+
 - 深度学习 TensorFlow 实战,pdf,链接: https://pan.baidu.com/s/1DLLNcOR65qy97oDdSIuOzQ 提取码: i34i
 
 - 深度学习-花书,epub,链接: https://pan.baidu.com/s/10vwBo_ceowDWJ7ClAsXvgg 提取码: sshr
 
 - Tensorflow 教程,pdf,链接: https://pan.baidu.com/s/10uQaXta4NKNtZ3j86xzxTQ 提取码: gsv3
 
-- Python 深度学习实战：75 个有关神经网络建模、强化学习与迁移学习的解决方案,链接: https://pan.baidu.com/s/1CieDtKrQArtkD-L921OAjw 提取码: z9jx
+- Python 深度学习实战：75 个有关神经网络建模、强化学习与迁移学习的解决方案,链接: https://pan.baidu.com/s/1EKdZ6pTgqGUQQPTISLhlJg 提取码: i9s5
 
 ### AI
 
@@ -578,13 +580,13 @@
 
 - 人工智能的未来-霍金斯,链接: https://pan.baidu.com/s/1bFI86hlp-eYWTY1EpYkZwg 提取码: 8zss
 
-- 智能信息融合与目标识别方法,pdf, 链接: https://pan.baidu.com/s/1a09YUkiKKFcJcUbHbo4X7A 提取码: rqvn
+- 智能信息融合与目标识别方法,pdf, 链接: https://pan.baidu.com/s/1KWJ2CCBYQBBHa1DshRVTYw 提取码: rfeh
 
-- 机器智能：人工情感,pdf,链接: https://pan.baidu.com/s/1JyUMXrJFDRUdd1kaHj-hGw 提取码: fbj9
+- 机器智能：人工情感,pdf,链接: https://pan.baidu.com/s/1xlHoONqGechWyVs1zK-PEA 提取码: ft3f
 
-- 无人机简史,pdf,链接: https://pan.baidu.com/s/1ggnbRhZT6jWddV9fQkg0Sg 提取码: 2kmg
+- 无人机简史,pdf,链接: https://pan.baidu.com/s/1M8g1LMJb5b8kb1B3UzOVTw 提取码: eugd
 
-- 人工智能技术,pdf,链接: https://pan.baidu.com/s/1t4gjxfor-3vgEm-XwIAfKQ 提取码: keiy
+- 人工智能技术,pdf,链接: https://pan.baidu.com/s/1LinMKa5_4xT9HHrWTwbp5A 提取码: 9kqk
 
 - AI·未来,epub,链接: https://pan.baidu.com/s/19XFg97Eg9t98JnHqX0XvAg 提取码: qj4b
 
@@ -608,7 +610,7 @@
 
 - 3D 数学基础：图形与游戏开发,链接: https://pan.baidu.com/s/1aSL6u6E30dvd-xIJ-cSCjQ 提取码: 5zv4
 
-- 具体数学 计算机科学基础(第 2 版),链接: https://pan.baidu.com/s/1X6wcCRsolgudzWfP9RPihw 提取码: 2kgf
+- 具体数学 计算机科学基础(第 2 版),链接: https://pan.baidu.com/s/1h1Jb4W9D6izXKmga3i-1kQ 提取码: r8kt
 
 ### 高等数学
 
