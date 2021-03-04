@@ -6,6 +6,8 @@
 
 3. 关于格式问题，pdf 适合电脑上阅读，epub 手机端导入阅读，mobi 是 kindle 中使用的格式，其中 epub，mobi 相互转换比较便捷, 推荐一个转换工具的网站,https://onlineconvertfree.com/zh/
 
+4. 有些书籍频繁被和谐,可能链接无法分享出来了,大家可以加我网盘好友,我个人共享文件出来,账号: 安仁坊全
+
 ## 计算机
 
 ### 科普
@@ -577,8 +579,6 @@
 - 机器学习实战基于 scikitlearn 和 tensorflow,epub
 
 ### 深度学习
-
-链接: https://pan.baidu.com/s/16eZ6DEX4VjAkpNMCVr1Tnw 提取码: s3ec
 
 - 深度学习 TensorFlow 实战,pdf,链接: https://pan.baidu.com/s/1DLLNcOR65qy97oDdSIuOzQ 提取码: i34i
 
