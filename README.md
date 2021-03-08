@@ -14,7 +14,7 @@
 
 - 5G 时代：什么是 5G，它将如何改变世界,链接: https://pan.baidu.com/s/15HV2NRbyOADXC3lMu5f7Jw 提取码: 1ugc
 
-- 未来简史,链接: https://pan.baidu.com/s/1ZOt4v6_g8ORn9jSe3Fjh6w 提取码: mtjm
+- 未来简史,https://image.xjq.icu/2021/3/8/2021.3.8-%E6%9C%AA%E6%9D%A5%E7%AE%80%E5%8F%B2.epub
 
 ### 计算机网络
 
