@@ -144,6 +144,8 @@
 
 - Node.js 实战,mobi
 
+- 深入浅出 Node.js,pdf
+
 - 了不起的 Node js 将 JavaScript 进行到底,pdf
 
 - JavaScript 数据结构与算法-第 2 版,pdf
