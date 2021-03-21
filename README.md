@@ -18,6 +18,8 @@
 
 - 未来简史,https://image.xjq.icu/2021/3/8/2021.3.8-%E6%9C%AA%E6%9D%A5%E7%AE%80%E5%8F%B2.epub
 
+- 穿越计算机的迷雾,链接: https://pan.baidu.com/s/1EsDJiR1JOpFSy4s_7aeM6g 提取码: qxg5
+
 ### 计算机网络
 
 链接: https://pan.baidu.com/s/14qDALOCHpzDKr_cFW69IhQ 提取码: q8pa
@@ -238,6 +240,32 @@
 
 - 流畅的 Python,epub,pdf
 
+- 贝叶斯思维(统计建模的 python 学习法),epub
+
+## 大数据
+
+链接: https://pan.baidu.com/s/1pJlyfWmkgKbOO612W8iWYQ 提取码: x974
+
+- 推荐系统实践,pdf
+
+## 软件工程
+
+链接: https://pan.baidu.com/s/1daYvfhpi7FuxSG5yePV5nw 提取码: ap26
+
+- 简约之美-软件设计之道
+
+- 软件开发本质论：追求简约、体现价值、逐步构建,epub,pdf
+
+## 软件测试
+
+链接: https://pan.baidu.com/s/1_nxHJiCvwk755p49-fPIzw 提取码: f63q
+
+- 软件测试实战(微软技术专家经验总结),epub
+
+- 测试架构师修炼之道：从测试工程师到测试架构师,epub,pdf
+
+- Google 软件测试之道,epub
+
 ### 编程
 
 链接: https://pan.baidu.com/s/1GXbu48uYfV9IZX36XOHfMg 提取码: n7ef
@@ -319,6 +347,14 @@
 - 程序员的算法趣题，mobi
 
 - 程序员代码面试指南\_IT 名企算法与数据结构题目最优解，mobi
+
+- 迷茫的旅行商-一个无处不在的计算机算法问题
+
+## 移动端
+
+链接: https://pan.baidu.com/s/18mcE4Bt0NTUJdXJnjqNavg 提取码: hp61
+
+- 第一行代码：Android,epub
 
 ### 互联网
 
@@ -492,6 +528,8 @@
 
 - 全栈应用开发：精益实践,mobi
 
+- 单页 Web 应用：JavaScript 从前端到后端,pdf
+
 #### 可视化
 
 - 精通 D3.js 交互式数据可视化高级编程,pdf
@@ -589,6 +627,8 @@
 - Tensorflow 教程,pdf,链接: https://pan.baidu.com/s/10uQaXta4NKNtZ3j86xzxTQ 提取码: gsv3
 
 - Python 深度学习实战：75 个有关神经网络建模、强化学习与迁移学习的解决方案,链接: https://pan.baidu.com/s/1EKdZ6pTgqGUQQPTISLhlJg 提取码: i9s5
+
+- 深度学习：智能时代的核心驱动力量,pdf,链接: https://pan.baidu.com/s/1zDoeK9-xhjrK_aATtH7igw 提取码: tvj2
 
 ### AI
 
