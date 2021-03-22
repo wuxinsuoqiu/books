@@ -122,7 +122,7 @@
 
 链接: https://pan.baidu.com/s/1pqxy2rseCBAHvbBgGMrmcQ 提取码: 99rw
 
-- 你不知道的 JavaScript
+- 你不知道的 JavaScript,上,mobi,pdf,中,mobi,pdf,下,mobi,pdf
 
 - JavaScript 权威指南(第六版)
 
@@ -145,6 +145,12 @@
 - Node.js 开发指南,epub
 
 - Node.js 实战,mobi
+
+- Node 即学即用,pdf
+
+- Node 学习指南,pdf
+
+- Node 与 Express 开发,pdf
 
 - 深入浅出 Node.js,pdf
 
@@ -177,6 +183,8 @@
 - Go 语言程序设计-Mark,pdf
 
 - Go 语言程序设计-王鹏
+
+- Go 源码剖析,pdf
 
 #### Java
 
@@ -450,8 +458,6 @@
 
 - Linux 就该这么学
 
-- 深入 Linux 内核架构
-
 - Linux shell 编程从初学到精通
 
 - Linux 程序设计,mobi
@@ -460,13 +466,23 @@
 
 - Linux 命令行与 shell 脚本编程大全（第 3 版）,mobi,epub
 
+- 理解 Linux 进程,pdf
+
+- 深入理解 Linux 内核,pdf
+
+- Linux 内核文档,pdf
+
 #### UNIX
 
 - UNIX 环境高级编程（第三版）
 
 - UNIX 网络编程卷 1：套接字联网 API(第 3 版)
 
-- UNIX 编程艺术
+- UNIX 网络编程卷 2：进程间通信,pdf
+
+- UNIX 编程艺术,pdf
+
+- UNIX 操作系统设计,pdf
 
 #### Docker
 
@@ -477,6 +493,14 @@
 - 深入浅出 docker 异步图书,epub
 
 - Docker 技术入门与实战（第 2 版） (容器技术系列),epub
+
+- Docker 从入门到实践
+
+  第三版,pdf
+
+- Docker 容器与容器云
+
+  第二版,pdf
 
 #### 服务器
 
@@ -602,7 +626,10 @@
 
 - MySQL 必知必会
 
-- SQL 基础教程-第 2 版
+- SQL 基础教程
+
+  第一版,pdf
+  第二版,pdf
 
 - HBase 权威指南,epub,pdf
 
@@ -611,6 +638,14 @@
 - 高性能 MySQL(第 3 版)
 
 - HBase 实战,epub
+
+- SQL 学习指南,pdf
+
+- Redis 入门指南,pdf
+
+- Redis 开发与运维,pdf
+
+- Redis 实战,pdf
 
 ### 机器学习
 
