@@ -102,6 +102,8 @@
 
 - 深入理解 c11(c11 新特性解析与应用),epub,mobi
 
+- C++反汇编与逆向分析技术揭秘,pdf
+
 #### 汇编
 
 - 汇编语言
@@ -207,6 +209,10 @@
 - 自己动手写 Java 虚拟机 (Java 核心技术系列),epub,链接: https://pan.baidu.com/s/1Qzj5Aph169Sag3lxwfe0EA 提取码: vvfp
 
 - Head First Java(第 2 版),pdf,链接: https://pan.baidu.com/s/1ewCL9_MJPi5Mrdj-Nuai4w 提取码: v7xi
+
+- Effective Java,pdf,链接: https://pan.baidu.com/s/13gg1vGuUKnNcHkaR0baROg 提取码: fvig
+
+- Java 编程思想（第 4 版）,pdf,
 
 #### Python
 
@@ -496,11 +502,11 @@
 
 - Docker 从入门到实践
 
-  第三版,pdf
+  1. 第三版,pdf
 
 - Docker 容器与容器云
 
-  第二版,pdf
+  1. 第二版,pdf
 
 #### 服务器
 
@@ -531,6 +537,8 @@
 - JavaScript 设计模式,链接: https://pan.baidu.com/s/1tzswZxD3wF3CUsIOF3DawA 提取码: jac5
 
 - 大话设计模式,pdf,链接: https://pan.baidu.com/s/1vK8huqWE2xuAabb00tA4Jg 提取码: 42nr
+
+- 设计模式之禅,pdf,链接: https://pan.baidu.com/s/1cSWU7NT8X7IbaiBle1kfbw 提取码: yi91
 
 ### 前端
 
