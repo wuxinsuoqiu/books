@@ -100,7 +100,7 @@
 
 - C++ templates 中文版,epub
 
-- 深入理解 c11(c11 新特性解析与应用),epub
+- 深入理解 c11(c11 新特性解析与应用),epub,mobi
 
 #### 汇编
 
@@ -242,13 +242,17 @@
 
 - 贝叶斯思维(统计建模的 python 学习法),epub
 
-## 大数据
+### 大数据
 
 链接: https://pan.baidu.com/s/1pJlyfWmkgKbOO612W8iWYQ 提取码: x974
 
 - 推荐系统实践,pdf
 
-## 软件工程
+- Hadoop 技术内幕：深入理解 MapReduce 架构设计与实现原理,pdf
+
+- hadoop 实战(第 2 版),pdf,epub
+
+### 软件工程
 
 链接: https://pan.baidu.com/s/1daYvfhpi7FuxSG5yePV5nw 提取码: ap26
 
@@ -256,7 +260,7 @@
 
 - 软件开发本质论：追求简约、体现价值、逐步构建,epub,pdf
 
-## 软件测试
+### 软件测试
 
 链接: https://pan.baidu.com/s/1_nxHJiCvwk755p49-fPIzw 提取码: f63q
 
@@ -350,11 +354,23 @@
 
 - 迷茫的旅行商-一个无处不在的计算机算法问题
 
-## 移动端
+### 移动端
 
 链接: https://pan.baidu.com/s/18mcE4Bt0NTUJdXJnjqNavg 提取码: hp61
 
 - 第一行代码：Android,epub
+
+- Android 软件安全与逆向分析,epub
+
+- Android 开发艺术探索,epub
+
+- 音视频开发进阶指南基于 android 与 ios 平台的实践,epub
+
+### 区块链
+
+链接: https://pan.baidu.com/s/1luuIc7pqq9KdpBMXw5u0sg 提取码: g9g9
+
+- 区块链将如何重新定义世界,epub
 
 ### 互联网
 
@@ -657,6 +673,8 @@
 - 游戏设计快乐之道(第 2 版),epub
 
 - 游戏开发的数学和物理,epub
+
+- 通关！游戏设计之道（第 2 版）,epub,pdf
 
 ## 数学
 
