@@ -4,7 +4,7 @@
 
 2. 链接失效了请发 issue
 
-3. 关于格式问题，pdf 适合电脑上阅读，epub 手机端导入阅读，mobi 是 kindle 中使用的格式，其中 epub，mobi 相互转换比较便捷, 推荐一个转换工具的网站,https://onlineconvertfree.com/zh/
+3. 关于格式问题, pdf 适合电脑上阅读, epub 手机端导入阅读, mobi 是 kindle 中使用的格式, 其中 epub, mobi 相互转换比较便捷, 推荐一个转换工具的网站,https://onlineconvertfree.com/zh/
 
 4. 有些书籍频繁被和谐,可能链接无法分享出来了,大家可以加我网盘好友,我个人共享文件出来,账号: 安仁坊全
 
@@ -14,7 +14,7 @@
 
 - 计算进化史改变数学的命运,链接: https://pan.baidu.com/s/12oQCpZXXp9RjKHuz6pJHLA 提取码: 6dsi
 
-- 5G 时代：什么是 5G，它将如何改变世界,链接: https://pan.baidu.com/s/15HV2NRbyOADXC3lMu5f7Jw 提取码: 1ugc
+- 5G 时代：什么是 5G, 它将如何改变世界,链接: https://pan.baidu.com/s/15HV2NRbyOADXC3lMu5f7Jw 提取码: 1ugc
 
 - 未来简史,https://image.xjq.icu/2021/3/8/2021.3.8-%E6%9C%AA%E6%9D%A5%E7%AE%80%E5%8F%B2.epub
 
@@ -170,7 +170,7 @@
 
 - 深入理解 JavaScript,epub
 
-- 超实用的 JavaScript 代码段，mobi
+- 超实用的 JavaScript 代码段, mobi
 
 #### Go
 
@@ -362,11 +362,13 @@
 
 - 改变未来的九大算法,epub,mobi
 
-- 程序员的算法趣题，mobi
+- 程序员的算法趣题, mobi
 
-- 程序员代码面试指南\_IT 名企算法与数据结构题目最优解，mobi
+- 程序员代码面试指南\_IT 名企算法与数据结构题目最优解, mobi
 
 - 迷茫的旅行商-一个无处不在的计算机算法问题
+
+- 垃圾回收的算法与实现, pdf
 
 ### 移动端
 
@@ -410,13 +412,13 @@
 
 - 淘宝十年产品事,epub,pdf
 
-- 电商产品经理宝典：电商后台系统产品逻辑全解析，mobi
+- 电商产品经理宝典：电商后台系统产品逻辑全解析, mobi
 
-- IoT 变现：5G 时代物联网新赛道上如何弯道超车，mobi
+- IoT 变现：5G 时代物联网新赛道上如何弯道超车, mobi
 
-- 人人都该懂的互联网思维，mobi
+- 人人都该懂的互联网思维, mobi
 
-- 用户的本质，mobi
+- 用户的本质, mobi
 
 - 图解物联网,mobi
 
@@ -548,7 +550,7 @@
 
 - 现代前端技术解析 2019
 
-- 现代前端技术解析 (前端知识体系与架构思维解析)，mobi
+- 现代前端技术解析 (前端知识体系与架构思维解析), mobi
 
 - 渐进增强的 Web 设计
 
@@ -564,15 +566,15 @@
 
 - Web 前端黑客技术揭秘
 
-- 前端面试江湖，mobi
+- 前端面试江湖, mobi
 
-- 深入 react 技术栈，mobi
+- 深入 react 技术栈, mobi
 
 - 精通正则表达式-第三版-美-佛瑞德,pdf
 
 - 疯狂 HTML5+CSS3+JavaScript 讲义,mobi
 
-- Web 前端开发最佳实践，mobi
+- Web 前端开发最佳实践, mobi
 
 - 全栈应用开发：精益实践,mobi
 
@@ -608,7 +610,7 @@
 
 #### 安全
 
-- Web 安全开发指南，mobi
+- Web 安全开发指南, mobi
 
 - Web 前端黑客技术揭秘,pdf
 
@@ -676,6 +678,8 @@
 - 百面机器学习,epub
 
 - 机器学习实战基于 scikitlearn 和 tensorflow,epub
+
+- 机器学习基础, pdf
 
 ### 深度学习
 
@@ -781,7 +785,7 @@
 
 - 牛奶可乐经济学,mobi
 
-- 经济学的思维方式，mobi
+- 经济学的思维方式, mobi
 
 - 风口上的猪 - 一本书看懂互联网金融,epub
 
@@ -791,7 +795,7 @@
 
 - 解读中国经济,mobi
 
-- 国富论，mobi,epub
+- 国富论, mobi,epub
 
 - 自由与繁荣的国度,mobi
 
