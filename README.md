@@ -137,7 +137,9 @@
 
 - JavaScript 高级程序设计
 
-- JavaScript 语言精粹,mobi,pdf
+- [JavaScript语言精粹.mobi](https://static.xjq.icu/book/JavaScript语言精粹.mobi)
+
+- [JavaScript语言精粹.pdf](https://static.xjq.icu/book/JavaScript语言精粹.pdf)
 
 - JavaScript 函数式编程
 
@@ -171,7 +173,7 @@
 
 - 数据结构与算法 Javascript 描述,epub
 
-- JavaScript 忍者秘籍（第 2 版）,mobi
+- [JavaScript忍者秘籍(第2版)](https://static.xjq.icu/book/JavaScript忍者秘籍(第2版).mobi)
 
 - 学习 JavaScript 数据结构与算法,mobi
 
@@ -627,7 +629,7 @@
 
 #### 安全
 
-- Web 安全开发指南, mobi
+- [Web安全开发指南.mobi](https://static.xjq.icu/book/Web安全开发指南.mobi)
 
 - Web 前端黑客技术揭秘,pdf
 
