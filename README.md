@@ -10,6 +10,8 @@
 
 ## 计算机
 
+- [硅谷之火(第3版)](https://static.xjq.icu/book/硅谷之火(第3版).mobi)
+
 ### 科普
 
 - 计算进化史改变数学的命运,链接: https://pan.baidu.com/s/12oQCpZXXp9RjKHuz6pJHLA 提取码: 6dsi
@@ -57,6 +59,8 @@
 - 白帽子讲 Web 安全,epub,mobi
 
 - 黑客攻防技术宝典 web 实战篇(第 2 版),epub
+
+- [黑客攻防技术宝典-Web实战篇(第2版).mobi](https://static.xjq.icu/book/黑客攻防技术宝典-Web实战篇(第2版).mobi)
 
 ### 编程语言
 
@@ -351,6 +355,8 @@
 
 - 算法 第 4 版, pdf ,mobi
 
+- [算法(第4版).mobi](https://static.xjq.icu/book/算法(第4版).mobi)
+
 - 挑战程序设计竞赛(第 2 版)
 
 - 计算几何-算法设计与分析-周培德(第 3 版)
@@ -361,7 +367,11 @@
 
 - 算法竞赛入门经典第 2 版,epub
 
-- 算法之美：指导工作与生活的算法,epub,mobi
+- [算法竞赛入门经典(第2版).mobi](https://static.xjq.icu/book/算法竞赛入门经典(第2版).mobi)
+
+- 算法之美：指导工作与生活的算法,epub
+
+- [算法之美.mobi](https://static.xjq.icu/book/算法之美.mobi)
 
 - 天才与算法
 
@@ -555,7 +565,7 @@
 
 - 现代前端技术解析 2019
 
-- 现代前端技术解析 (前端知识体系与架构思维解析), mobi
+- [现代前端技术解析.mobi](https://static.xjq.icu/book/现代前端技术解析.mobi)
 
 - 渐进增强的 Web 设计
 
@@ -605,13 +615,15 @@
 
 - CSS 世界-张鑫旭,mobi,pdf,epub
 
+- [CSS世界.mobi](https://static.xjq.icu/book/CSS世界.mobi)
+
 - CSS 权威指南-第三版
 
 - CSS3 实战
 
 - CSS 那些事儿
 
-- CSS 揭秘,mobi
+- [CSS揭秘.mobi](https://static.xjq.icu/book/CSS揭秘.mobi)
 
 #### 安全
 
@@ -688,6 +700,8 @@
 
 - 机器学习算法原理与编程实践,mobi
 
+- [机器学习算法原理与编程实践.mobi](https://static.xjq.icu/book/机器学习算法原理与编程实践.mobi)
+
 ### 深度学习
 
 - 深度学习 TensorFlow 实战,pdf,链接: https://pan.baidu.com/s/1DLLNcOR65qy97oDdSIuOzQ 提取码: i34i
@@ -731,6 +745,8 @@
 - 通关！游戏设计之道（第 2 版）,epub,pdf
 
 ## 数学
+
+- [概率论与数理统计(第3版).mobi](https://static.xjq.icu/book/概率论与数理统计(第3版).mobi)
 
 - 数学之美-第 2 版,pdf,epub,链接: https://pan.baidu.com/s/1I8eDNKrn30KiTOIMhiN_qQ 提取码: 93qx
 
@@ -807,3 +823,7 @@
 - 自由与繁荣的国度,mobi
 
 - 图解经济学原理,mobi
+
+## 哲学
+
+- [原则(瑞·达利欧).pdf](https://static.xjq.icu/book/原则(瑞·达利欧).pdf)
