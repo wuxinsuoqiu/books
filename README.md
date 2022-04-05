@@ -2,11 +2,7 @@
 
 1. 按分类目录存储,分享出来的链接是整个分类目录的,每本书往上的第一个链接就是
 
-2. 链接失效了请发 issue
-
-3. 关于格式问题, pdf 适合电脑上阅读, epub 手机端导入阅读, mobi 是 kindle 中使用的格式, 其中 epub, mobi 相互转换比较便捷, 推荐一个转换工具的网站,https://onlineconvertfree.com/zh/
-
-4. 有些书籍频繁被和谐,可能链接无法分享出来了,大家可以加我网盘好友,我个人共享文件出来,账号: 安仁坊全
+2. 关于格式问题, pdf 适合电脑上阅读, epub 手机端导入阅读, mobi 是 kindle 中使用的格式, 其中 epub, mobi 相互转换比较便捷, 推荐一个转换工具的网站,https://onlineconvertfree.com/zh/
 
 ## 计算机
 
@@ -175,9 +171,11 @@
 
 - [JavaScript忍者秘籍(第2版)](https://static.xjq.icu/book/JavaScript忍者秘籍(第2版).mobi)
 
-- 学习 JavaScript 数据结构与算法,mobi
+- [学习JavaScript数据结构与算法(第2版).mobi](https://static.xjq.icu/book/学习JavaScript数据结构与算法(第2版).mobi)
 
-- 深入理解 JavaScript,epub
+- [学习JavaScript数据结构与算法(第3版).mobi](https://static.xjq.icu/book/学习JavaScript数据结构与算法(第3版).mobi)
+
+- [深入理解JavaScript.epub](https://static.xjq.icu/book/深入理解JavaScript.epub)
 
 - 超实用的 JavaScript 代码段, mobi
 
@@ -583,7 +581,7 @@
 
 - Web 前端黑客技术揭秘
 
-- 前端面试江湖, mobi
+- [前端面试江湖.mobi](https://static.xjq.icu/book/前端面试江湖.mobi)
 
 - 深入 react 技术栈, mobi
 
