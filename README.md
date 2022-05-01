@@ -6,7 +6,7 @@
 
 ## 计算机
 
-- [硅谷之火(第3版)](https://static.xjq.icu/book/硅谷之火(第3版).mobi)
+- [硅谷之火(第 3 版)](<https://static.xjq.icu/book/硅谷之火(第3版).mobi>)
 
 ### 科普
 
@@ -56,7 +56,7 @@
 
 - 黑客攻防技术宝典 web 实战篇(第 2 版),epub
 
-- [黑客攻防技术宝典-Web实战篇(第2版).mobi](https://static.xjq.icu/book/黑客攻防技术宝典-Web实战篇(第2版).mobi)
+- [黑客攻防技术宝典-Web 实战篇(第 2 版).mobi](<https://static.xjq.icu/book/黑客攻防技术宝典-Web实战篇(第2版).mobi>)
 
 ### 编程语言
 
@@ -70,7 +70,7 @@
 
 - C 程序设计语言,epub
 
-- C 和指针,epub
+- [C 和指针.epub](https://static.xjq.icu/book/C%20%E5%92%8C%E6%8C%87%E9%92%88.epub)
 
 - C Primer Plus,epub
 
@@ -133,9 +133,9 @@
 
 - JavaScript 高级程序设计
 
-- [JavaScript语言精粹.mobi](https://static.xjq.icu/book/JavaScript语言精粹.mobi)
+- [JavaScript 语言精粹.mobi](https://static.xjq.icu/book/JavaScript语言精粹.mobi)
 
-- [JavaScript语言精粹.pdf](https://static.xjq.icu/book/JavaScript语言精粹.pdf)
+- [JavaScript 语言精粹.pdf](https://static.xjq.icu/book/JavaScript语言精粹.pdf)
 
 - JavaScript 函数式编程
 
@@ -169,13 +169,13 @@
 
 - 数据结构与算法 Javascript 描述,epub
 
-- [JavaScript忍者秘籍(第2版)](https://static.xjq.icu/book/JavaScript忍者秘籍(第2版).mobi)
+- [JavaScript 忍者秘籍(第 2 版)](<https://static.xjq.icu/book/JavaScript忍者秘籍(第2版).mobi>)
 
-- [学习JavaScript数据结构与算法(第2版).mobi](https://static.xjq.icu/book/学习JavaScript数据结构与算法(第2版).mobi)
+- [学习 JavaScript 数据结构与算法(第 2 版).mobi](<https://static.xjq.icu/book/学习JavaScript数据结构与算法(第2版).mobi>)
 
-- [学习JavaScript数据结构与算法(第3版).mobi](https://static.xjq.icu/book/学习JavaScript数据结构与算法(第3版).mobi)
+- [学习 JavaScript 数据结构与算法(第 3 版).mobi](<https://static.xjq.icu/book/学习JavaScript数据结构与算法(第3版).mobi>)
 
-- [深入理解JavaScript.epub](https://static.xjq.icu/book/深入理解JavaScript.epub)
+- [深入理解 JavaScript.epub](https://static.xjq.icu/book/深入理解JavaScript.epub)
 
 - 超实用的 JavaScript 代码段, mobi
 
@@ -355,7 +355,7 @@
 
 - 算法 第 4 版, pdf ,mobi
 
-- [算法(第4版).mobi](https://static.xjq.icu/book/算法(第4版).mobi)
+- [算法(第 4 版).mobi](<https://static.xjq.icu/book/算法(第4版).mobi>)
 
 - 挑战程序设计竞赛(第 2 版)
 
@@ -367,7 +367,7 @@
 
 - 算法竞赛入门经典第 2 版,epub
 
-- [算法竞赛入门经典(第2版).mobi](https://static.xjq.icu/book/算法竞赛入门经典(第2版).mobi)
+- [算法竞赛入门经典(第 2 版).mobi](<https://static.xjq.icu/book/算法竞赛入门经典(第2版).mobi>)
 
 - 算法之美：指导工作与生活的算法,epub
 
@@ -615,7 +615,7 @@
 
 - CSS 世界-张鑫旭,mobi,pdf,epub
 
-- [CSS世界.mobi](https://static.xjq.icu/book/CSS世界.mobi)
+- [CSS 世界.mobi](https://static.xjq.icu/book/CSS世界.mobi)
 
 - CSS 权威指南-第三版
 
@@ -623,11 +623,11 @@
 
 - CSS 那些事儿
 
-- [CSS揭秘.mobi](https://static.xjq.icu/book/CSS揭秘.mobi)
+- [CSS 揭秘.mobi](https://static.xjq.icu/book/CSS揭秘.mobi)
 
 #### 安全
 
-- [Web安全开发指南.mobi](https://static.xjq.icu/book/Web安全开发指南.mobi)
+- [Web 安全开发指南.mobi](https://static.xjq.icu/book/Web安全开发指南.mobi)
 
 - Web 前端黑客技术揭秘,pdf
 
@@ -746,7 +746,7 @@
 
 ## 数学
 
-- [概率论与数理统计(第3版).mobi](https://static.xjq.icu/book/概率论与数理统计(第3版).mobi)
+- [概率论与数理统计(第 3 版).mobi](<https://static.xjq.icu/book/概率论与数理统计(第3版).mobi>)
 
 - 数学之美-第 2 版,pdf,epub,链接: https://pan.baidu.com/s/1I8eDNKrn30KiTOIMhiN_qQ 提取码: 93qx
 
@@ -826,4 +826,4 @@
 
 ## 哲学
 
-- [原则(瑞·达利欧).pdf](https://static.xjq.icu/book/原则(瑞·达利欧).pdf)
+- [原则(瑞·达利欧).pdf](<https://static.xjq.icu/book/原则(瑞·达利欧).pdf>)
