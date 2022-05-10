@@ -441,7 +441,7 @@
 
 链接: https://pan.baidu.com/s/1i90KLtdNUKBkK-nf_P-ejQ 提取码: bm5a
 
-- 数据结构(C 语言版).严蔚敏吴伟民
+- [数据结构(C 语言版)(严蔚敏).pdf](<https://static.xjq.icu/book/数据结构(C语言版)(严蔚敏).pdf>)
 
 - 大话数据结构
 
@@ -451,7 +451,7 @@
 
 - 数据结构与算法 Python 语言描述裘宗燕
 
-- C++数据结构-邓俊辉,pdf
+- [C++数据结构(邓俊辉).pdf](<https://static.xjq.icu/book/C++数据结构(邓俊辉).pdf>)
 
 - 数据结构与算法（第四版）廖明宏
 
@@ -718,7 +718,7 @@
 
 - 无人机技术概论,链接: https://pan.baidu.com/s/12Fb3nlG7MRW1KcgaLLIZNg 提取码: uyxr
 
-- 人工智能的未来-霍金斯,链接: https://pan.baidu.com/s/1bFI86hlp-eYWTY1EpYkZwg 提取码: 8zss
+- [人工智能的未来(霍金斯).pdf](<https://static.xjq.icu/book/人工智能的未来(霍金斯).pdf>)
 
 - 智能信息融合与目标识别方法,pdf, 链接: https://pan.baidu.com/s/1KWJ2CCBYQBBHa1DshRVTYw 提取码: rfeh
 
@@ -728,7 +728,7 @@
 
 - 人工智能技术,pdf,链接: https://pan.baidu.com/s/1LinMKa5_4xT9HHrWTwbp5A 提取码: 9kqk
 
-- AI·未来,epub,链接: https://pan.baidu.com/s/19XFg97Eg9t98JnHqX0XvAg 提取码: qj4b
+- [AI·未来.epub](https://static.xjq.icu/book/AI·未来.epub)
 
 ### 游戏开发
 
