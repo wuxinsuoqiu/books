@@ -724,7 +724,7 @@
 
 - 机器智能：人工情感,pdf,链接: https://pan.baidu.com/s/1xlHoONqGechWyVs1zK-PEA 提取码: ft3f
 
-- 无人机简史,pdf,链接: https://pan.baidu.com/s/1M8g1LMJb5b8kb1B3UzOVTw 提取码: eugd
+- [无人机简史.pdf](https://static.xjq.icu/book/无人机简史.pdf)
 
 - 人工智能技术,pdf,链接: https://pan.baidu.com/s/1LinMKa5_4xT9HHrWTwbp5A 提取码: 9kqk
 
