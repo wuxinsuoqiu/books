@@ -267,7 +267,7 @@
 
 链接: https://pan.baidu.com/s/1pJlyfWmkgKbOO612W8iWYQ 提取码: x974
 
-- 推荐系统实践,pdf
+- [推荐系统实践.pdf](https://static.xjq.icu/book/推荐系统实践.pdf)
 
 - Hadoop 技术内幕：深入理解 MapReduce 架构设计与实现原理,pdf
 
@@ -726,7 +726,7 @@
 
 - [无人机简史.pdf](https://static.xjq.icu/book/无人机简史.pdf)
 
-- 人工智能技术,pdf,链接: https://pan.baidu.com/s/1LinMKa5_4xT9HHrWTwbp5A 提取码: 9kqk
+- [人工智能技术.pdf](https://static.xjq.icu/book/人工智能技术.pdf)
 
 - [AI·未来.epub](https://static.xjq.icu/book/AI·未来.epub)
 
