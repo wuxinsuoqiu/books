@@ -443,7 +443,7 @@
 
 - [数据结构(C 语言版)(严蔚敏).pdf](<https://static.xjq.icu/book/数据结构(C语言版)(严蔚敏).pdf>)
 
-- 大话数据结构
+- [大话数据结构.pdf](https://static.xjq.icu/book/大话数据结构.pdf)
 
 - 数据结构与抽象 Java 语言描述 第 4 版
 
@@ -722,7 +722,7 @@
 
 - 智能信息融合与目标识别方法,pdf, 链接: https://pan.baidu.com/s/1KWJ2CCBYQBBHa1DshRVTYw 提取码: rfeh
 
-- 机器智能：人工情感,pdf,链接: https://pan.baidu.com/s/1xlHoONqGechWyVs1zK-PEA 提取码: ft3f
+- [机器智能：人工情感.pdf](https://static.xjq.icu/book/机器智能：人工情感.pdf)
 
 - [无人机简史.pdf](https://static.xjq.icu/book/无人机简史.pdf)
 
