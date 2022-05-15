@@ -269,9 +269,11 @@
 
 - [推荐系统实践.pdf](https://static.xjq.icu/book/推荐系统实践.pdf)
 
-- Hadoop 技术内幕：深入理解 MapReduce 架构设计与实现原理,pdf
+- [Hadoop 技术内幕：深入理解 MapReduce 架构设计与实现原理](https://static.xjq.icu/book/Hadoop技术内幕：深入理解MapReduce架构设计与实现原理.pdf)
 
-- hadoop 实战(第 2 版),pdf,epub
+- [Hadoop 实战(第 2 版).pdf](<https://static.xjq.icu/book/Hadoop实战(第2版).pdf>)
+
+- [Hadoop 实战(第 2 版).epub](<https://static.xjq.icu/book/hadoop实战(第2版).epub>)
 
 ### 软件工程
 
@@ -712,7 +714,7 @@
 
 - Python 深度学习实战：75 个有关神经网络建模、强化学习与迁移学习的解决方案,链接: https://pan.baidu.com/s/1EKdZ6pTgqGUQQPTISLhlJg 提取码: i9s5
 
-- 深度学习：智能时代的核心驱动力量,pdf,链接: https://pan.baidu.com/s/1zDoeK9-xhjrK_aATtH7igw 提取码: tvj2
+- [深度学习：智能时代的核心驱动力量.epub](https://static.xjq.icu/book/深度学习：智能时代的核心驱动力量.epub)
 
 ### AI
 
@@ -720,7 +722,7 @@
 
 - [人工智能的未来(霍金斯).pdf](<https://static.xjq.icu/book/人工智能的未来(霍金斯).pdf>)
 
-- 智能信息融合与目标识别方法,pdf, 链接: https://pan.baidu.com/s/1KWJ2CCBYQBBHa1DshRVTYw 提取码: rfeh
+- [智能信息融合与目标识别方法.pdf](https://static.xjq.icu/book/智能信息融合与目标识别方法.pdf)
 
 - [机器智能：人工情感.pdf](https://static.xjq.icu/book/机器智能：人工情感.pdf)
 
