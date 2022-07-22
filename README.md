@@ -2,19 +2,17 @@
 
 1. 按分类目录存储,分享出来的链接是整个分类目录的,每本书往上的第一个链接就是
 
-2. 链接失效了请发 issue
-
-3. 关于格式问题，pdf 适合电脑上阅读，epub 手机端导入阅读，mobi 是 kindle 中使用的格式，其中 epub，mobi 相互转换比较便捷, 推荐一个转换工具的网站,https://onlineconvertfree.com/zh/
-
-4. 有些书籍频繁被和谐,可能链接无法分享出来了,大家可以加我网盘好友,我个人共享文件出来,账号: 安仁坊全
+2. 关于格式问题, pdf 适合电脑上阅读, epub 手机端导入阅读, mobi 是 kindle 中使用的格式, 其中 epub, mobi 相互转换比较便捷, 推荐一个转换工具的网站,https://onlineconvertfree.com/zh/
 
 ## 计算机
+
+- [硅谷之火(第 3 版)](<https://static.xjq.icu/book/硅谷之火(第3版).mobi>)
 
 ### 科普
 
 - 计算进化史改变数学的命运,链接: https://pan.baidu.com/s/12oQCpZXXp9RjKHuz6pJHLA 提取码: 6dsi
 
-- 5G 时代：什么是 5G，它将如何改变世界,链接: https://pan.baidu.com/s/15HV2NRbyOADXC3lMu5f7Jw 提取码: 1ugc
+- 5G 时代：什么是 5G, 它将如何改变世界,链接: https://pan.baidu.com/s/15HV2NRbyOADXC3lMu5f7Jw 提取码: 1ugc
 
 - 未来简史,https://image.xjq.icu/2021/3/8/2021.3.8-%E6%9C%AA%E6%9D%A5%E7%AE%80%E5%8F%B2.epub
 
@@ -58,6 +56,8 @@
 
 - 黑客攻防技术宝典 web 实战篇(第 2 版),epub
 
+- [黑客攻防技术宝典-Web 实战篇(第 2 版).mobi](<https://static.xjq.icu/book/黑客攻防技术宝典-Web实战篇(第2版).mobi>)
+
 ### 编程语言
 
 链接: https://pan.baidu.com/s/1shXEVHLFQPf0g-Wvzm4-Ug 提取码: 8fsr
@@ -70,7 +70,7 @@
 
 - C 程序设计语言,epub
 
-- C 和指针,epub
+- [C 和指针.epub](https://static.xjq.icu/book/C%20%E5%92%8C%E6%8C%87%E9%92%88.epub)
 
 - C Primer Plus,epub
 
@@ -116,6 +116,9 @@
 
 - C#图解教程
 
+  - 第 4 版,pdf
+  - 第 5 版,pdf,(感谢[yiyi chen](https://github.com/1300602123)提供的资源)
+
 - C#高级编程
 
 - C#高级编程(第 7 版)
@@ -130,7 +133,9 @@
 
 - JavaScript 高级程序设计
 
-- JavaScript 语言精粹,mobi,pdf
+- [JavaScript 语言精粹.mobi](https://static.xjq.icu/book/JavaScript语言精粹.mobi)
+
+- [JavaScript 语言精粹.pdf](https://static.xjq.icu/book/JavaScript语言精粹.pdf)
 
 - JavaScript 函数式编程
 
@@ -164,13 +169,15 @@
 
 - 数据结构与算法 Javascript 描述,epub
 
-- JavaScript 忍者秘籍（第 2 版）,mobi
+- [JavaScript 忍者秘籍(第 2 版)](<https://static.xjq.icu/book/JavaScript忍者秘籍(第2版).mobi>)
 
-- 学习 JavaScript 数据结构与算法,mobi
+- [学习 JavaScript 数据结构与算法(第 2 版).mobi](<https://static.xjq.icu/book/学习JavaScript数据结构与算法(第2版).mobi>)
 
-- 深入理解 JavaScript,epub
+- [学习 JavaScript 数据结构与算法(第 3 版).mobi](<https://static.xjq.icu/book/学习JavaScript数据结构与算法(第3版).mobi>)
 
-- 超实用的 JavaScript 代码段，mobi
+- [深入理解 JavaScript.epub](https://static.xjq.icu/book/深入理解JavaScript.epub)
+
+- 超实用的 JavaScript 代码段, mobi
 
 #### Go
 
@@ -260,11 +267,13 @@
 
 链接: https://pan.baidu.com/s/1pJlyfWmkgKbOO612W8iWYQ 提取码: x974
 
-- 推荐系统实践,pdf
+- [推荐系统实践.pdf](https://static.xjq.icu/book/推荐系统实践.pdf)
 
-- Hadoop 技术内幕：深入理解 MapReduce 架构设计与实现原理,pdf
+- [Hadoop 技术内幕：深入理解 MapReduce 架构设计与实现原理](https://static.xjq.icu/book/Hadoop技术内幕：深入理解MapReduce架构设计与实现原理.pdf)
 
-- hadoop 实战(第 2 版),pdf,epub
+- [Hadoop 实战(第 2 版).pdf](<https://static.xjq.icu/book/Hadoop实战(第2版).pdf>)
+
+- [Hadoop 实战(第 2 版).epub](<https://static.xjq.icu/book/hadoop实战(第2版).epub>)
 
 ### 软件工程
 
@@ -326,6 +335,8 @@
 
 - 码农翻身\_用故事给技术加点料,mobi
 
+- 硅谷之火（第 3 版）, mobi
+
 ### 算法
 
 链接: https://pan.baidu.com/s/1NHX0YhgJ3Z712Zquq8qutw 提取码: 9akt
@@ -344,7 +355,9 @@
 
 - 趣学算法
 
-- 算法 第 4 版
+- 算法 第 4 版, pdf ,mobi
+
+- [算法(第 4 版).mobi](<https://static.xjq.icu/book/算法(第4版).mobi>)
 
 - 挑战程序设计竞赛(第 2 版)
 
@@ -356,17 +369,23 @@
 
 - 算法竞赛入门经典第 2 版,epub
 
-- 算法之美：指导工作与生活的算法
+- [算法竞赛入门经典(第 2 版).mobi](<https://static.xjq.icu/book/算法竞赛入门经典(第2版).mobi>)
+
+- 算法之美：指导工作与生活的算法,epub
+
+- [算法之美.mobi](https://static.xjq.icu/book/算法之美.mobi)
 
 - 天才与算法
 
 - 改变未来的九大算法,epub,mobi
 
-- 程序员的算法趣题，mobi
+- 程序员的算法趣题, mobi
 
-- 程序员代码面试指南\_IT 名企算法与数据结构题目最优解，mobi
+- 程序员代码面试指南\_IT 名企算法与数据结构题目最优解, mobi,epub,pdf
 
 - 迷茫的旅行商-一个无处不在的计算机算法问题
+
+- 垃圾回收的算法与实现, pdf
 
 ### 移动端
 
@@ -410,13 +429,13 @@
 
 - 淘宝十年产品事,epub,pdf
 
-- 电商产品经理宝典：电商后台系统产品逻辑全解析，mobi
+- 电商产品经理宝典：电商后台系统产品逻辑全解析, mobi
 
-- IoT 变现：5G 时代物联网新赛道上如何弯道超车，mobi
+- IoT 变现：5G 时代物联网新赛道上如何弯道超车, mobi
 
-- 人人都该懂的互联网思维，mobi
+- 人人都该懂的互联网思维, mobi
 
-- 用户的本质，mobi
+- 用户的本质, mobi
 
 - 图解物联网,mobi
 
@@ -424,9 +443,9 @@
 
 链接: https://pan.baidu.com/s/1i90KLtdNUKBkK-nf_P-ejQ 提取码: bm5a
 
-- 数据结构(C 语言版).严蔚敏吴伟民
+- [数据结构(C 语言版)(严蔚敏).pdf](<https://static.xjq.icu/book/数据结构(C语言版)(严蔚敏).pdf>)
 
-- 大话数据结构
+- [大话数据结构.pdf](https://static.xjq.icu/book/大话数据结构.pdf)
 
 - 数据结构与抽象 Java 语言描述 第 4 版
 
@@ -434,7 +453,7 @@
 
 - 数据结构与算法 Python 语言描述裘宗燕
 
-- C++数据结构-邓俊辉,pdf
+- [C++数据结构(邓俊辉).pdf](<https://static.xjq.icu/book/C++数据结构(邓俊辉).pdf>)
 
 - 数据结构与算法（第四版）廖明宏
 
@@ -548,7 +567,7 @@
 
 - 现代前端技术解析 2019
 
-- 现代前端技术解析 (前端知识体系与架构思维解析)，mobi
+- [现代前端技术解析.mobi](https://static.xjq.icu/book/现代前端技术解析.mobi)
 
 - 渐进增强的 Web 设计
 
@@ -564,15 +583,15 @@
 
 - Web 前端黑客技术揭秘
 
-- 前端面试江湖，mobi
+- [前端面试江湖.mobi](https://static.xjq.icu/book/前端面试江湖.mobi)
 
-- 深入 react 技术栈，mobi
+- 深入 react 技术栈, mobi
 
 - 精通正则表达式-第三版-美-佛瑞德,pdf
 
 - 疯狂 HTML5+CSS3+JavaScript 讲义,mobi
 
-- Web 前端开发最佳实践，mobi
+- Web 前端开发最佳实践, mobi
 
 - 全栈应用开发：精益实践,mobi
 
@@ -598,17 +617,19 @@
 
 - CSS 世界-张鑫旭,mobi,pdf,epub
 
+- [CSS 世界.mobi](https://static.xjq.icu/book/CSS世界.mobi)
+
 - CSS 权威指南-第三版
 
 - CSS3 实战
 
 - CSS 那些事儿
 
-- CSS 揭秘,mobi
+- [CSS 揭秘.mobi](https://static.xjq.icu/book/CSS揭秘.mobi)
 
 #### 安全
 
-- Web 安全开发指南，mobi
+- [Web 安全开发指南.mobi](https://static.xjq.icu/book/Web安全开发指南.mobi)
 
 - Web 前端黑客技术揭秘,pdf
 
@@ -677,6 +698,12 @@
 
 - 机器学习实战基于 scikitlearn 和 tensorflow,epub
 
+- 机器学习基础, pdf
+
+- 机器学习算法原理与编程实践,mobi
+
+- [机器学习算法原理与编程实践.mobi](https://static.xjq.icu/book/机器学习算法原理与编程实践.mobi)
+
 ### 深度学习
 
 - 深度学习 TensorFlow 实战,pdf,链接: https://pan.baidu.com/s/1DLLNcOR65qy97oDdSIuOzQ 提取码: i34i
@@ -687,23 +714,23 @@
 
 - Python 深度学习实战：75 个有关神经网络建模、强化学习与迁移学习的解决方案,链接: https://pan.baidu.com/s/1EKdZ6pTgqGUQQPTISLhlJg 提取码: i9s5
 
-- 深度学习：智能时代的核心驱动力量,pdf,链接: https://pan.baidu.com/s/1zDoeK9-xhjrK_aATtH7igw 提取码: tvj2
+- [深度学习：智能时代的核心驱动力量.epub](https://static.xjq.icu/book/深度学习：智能时代的核心驱动力量.epub)
 
 ### AI
 
 - 无人机技术概论,链接: https://pan.baidu.com/s/12Fb3nlG7MRW1KcgaLLIZNg 提取码: uyxr
 
-- 人工智能的未来-霍金斯,链接: https://pan.baidu.com/s/1bFI86hlp-eYWTY1EpYkZwg 提取码: 8zss
+- [人工智能的未来(霍金斯).pdf](<https://static.xjq.icu/book/人工智能的未来(霍金斯).pdf>)
 
-- 智能信息融合与目标识别方法,pdf, 链接: https://pan.baidu.com/s/1KWJ2CCBYQBBHa1DshRVTYw 提取码: rfeh
+- [智能信息融合与目标识别方法.pdf](https://static.xjq.icu/book/智能信息融合与目标识别方法.pdf)
 
-- 机器智能：人工情感,pdf,链接: https://pan.baidu.com/s/1xlHoONqGechWyVs1zK-PEA 提取码: ft3f
+- [机器智能：人工情感.pdf](https://static.xjq.icu/book/机器智能：人工情感.pdf)
 
-- 无人机简史,pdf,链接: https://pan.baidu.com/s/1M8g1LMJb5b8kb1B3UzOVTw 提取码: eugd
+- [无人机简史.pdf](https://static.xjq.icu/book/无人机简史.pdf)
 
-- 人工智能技术,pdf,链接: https://pan.baidu.com/s/1LinMKa5_4xT9HHrWTwbp5A 提取码: 9kqk
+- [人工智能技术.pdf](https://static.xjq.icu/book/人工智能技术.pdf)
 
-- AI·未来,epub,链接: https://pan.baidu.com/s/19XFg97Eg9t98JnHqX0XvAg 提取码: qj4b
+- [AI·未来.epub](https://static.xjq.icu/book/AI·未来.epub)
 
 ### 游戏开发
 
@@ -720,6 +747,8 @@
 - 通关！游戏设计之道（第 2 版）,epub,pdf
 
 ## 数学
+
+- [概率论与数理统计(第 3 版).mobi](<https://static.xjq.icu/book/概率论与数理统计(第3版).mobi>)
 
 - 数学之美-第 2 版,pdf,epub,链接: https://pan.baidu.com/s/1I8eDNKrn30KiTOIMhiN_qQ 提取码: 93qx
 
@@ -781,7 +810,7 @@
 
 - 牛奶可乐经济学,mobi
 
-- 经济学的思维方式，mobi
+- 经济学的思维方式, mobi
 
 - 风口上的猪 - 一本书看懂互联网金融,epub
 
@@ -791,8 +820,12 @@
 
 - 解读中国经济,mobi
 
-- 国富论，mobi,epub
+- 国富论, mobi,epub
 
 - 自由与繁荣的国度,mobi
 
 - 图解经济学原理,mobi
+
+## 哲学
+
+- [原则(瑞·达利欧).pdf](<https://static.xjq.icu/book/原则(瑞·达利欧).pdf>)
